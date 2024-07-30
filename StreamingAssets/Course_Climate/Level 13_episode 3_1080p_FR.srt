@@ -1,0 +1,19 @@
+2
+00:00:00,000 --> 00:00:00,498
+Test des sous-titres pour le français,
+Les sous-titres fonctionnent.
+
+2
+00:00:00,498 --> 00:00:02,827
+- Here's what I love most
+about food and diet.
+
+3
+00:00:02,827 --> 00:00:06,383
+We all eat several times a day,
+and we're totally in charge
+
+4
+00:00:06,383 --> 00:00:09,427
+of what goes on our plate
+and what stays off.
