@@ -1,19 +1,444 @@
-2
-00:00:00,000 --> 00:00:00,498
-Test des sous-titres pour le français,
-Les sous-titres fonctionnent.
+1
+00:00:07,110 --> 00:00:11,169
+Oh ! Aïe ! Ouille ! Aïe !
 
 2
-00:00:00,498 --> 00:00:02,827
-- Here's what I love most
-about food and diet.
+00:00:11,170 --> 00:00:13,359
+L’atterrissage est plus...
+compliqué.
 
 3
-00:00:02,827 --> 00:00:06,383
-We all eat several times a day,
-and we're totally in charge
+00:00:13,360 --> 00:00:15,549
+C'est ici que notre enquête
+commence !
 
 4
-00:00:06,383 --> 00:00:09,427
-of what goes on our plate
-and what stays off.
+00:00:16,560 --> 00:00:17,969
+Regarde !
+
+5
+00:00:18,280 --> 00:00:19,819
+Un... arbre ?
+
+6
+00:00:20,000 --> 00:00:21,529
+Un arbre vide !
+
+7
+00:00:22,420 --> 00:00:24,019
+Tout ces habitants ont...
+
+8
+00:00:24,020 --> 00:00:25,379
+disparus.
+
+9
+00:00:26,840 --> 00:00:27,989
+Mais non,
+
+10
+00:00:27,990 --> 00:00:29,259
+ils doivent être heu...
+
+11
+00:00:29,260 --> 00:00:30,259
+chez eux !
+
+12
+00:00:33,360 --> 00:00:35,049
+Il y a quelqu'un ?
+
+13
+00:00:35,060 --> 00:00:36,329
+Hé ho !
+
+14
+00:00:38,450 --> 00:00:39,719
+Allô ?
+
+15
+00:00:40,080 --> 00:00:41,859
+Youhou !
+
+16
+00:00:41,860 --> 00:00:42,859
+Oui ?
+
+17
+00:00:42,860 --> 00:00:43,859
+C'est pour quoi ?
+
+18
+00:00:43,860 --> 00:00:44,859
+Tu vois ?
+
+19
+00:00:44,860 --> 00:00:46,469
+Qu'est-ce que je te disais ?
+
+20
+00:00:46,940 --> 00:00:47,939
+Bonjour.
+
+21
+00:00:47,940 --> 00:00:49,419
+Excusez moi, mais,
+
+22
+00:00:49,420 --> 00:00:51,249
+où sont passés tous les autres ?
+
+23
+00:00:51,530 --> 00:00:53,659
+Ha, il n'y a plus que moi !
+
+24
+00:00:53,800 --> 00:00:55,419
+J'en ai bien peur.
+
+25
+00:00:55,670 --> 00:00:57,639
+Mais, comment c'est possible ?
+
+26
+00:00:57,900 --> 00:00:59,189
+Toutes ces maisons vides,
+
+27
+00:00:59,190 --> 00:01:00,189
+ça...
+
+28
+00:01:00,190 --> 00:01:01,299
+ça donne la chair de poule.
+
+29
+00:01:01,990 --> 00:01:03,049
+Vous savez,
+
+30
+00:01:03,060 --> 00:01:05,719
+les bébés naissent toujours à
+la même période.
+
+31
+00:01:05,980 --> 00:01:07,749
+Pendant le printemps,
+
+32
+00:01:07,760 --> 00:01:09,719
+avec toutes ces naissances
+
+33
+00:01:09,720 --> 00:01:14,419
+c'est le moment où les oiseaux
+ont le plus besoin de nourriture.
+
+34
+00:01:14,420 --> 00:01:15,719
+Des chenilles ?
+
+35
+00:01:15,720 --> 00:01:17,279
+Exactement !
+
+36
+00:01:17,280 --> 00:01:20,059
+Jusqu'à maintenant, la période
+des chenilles
+
+37
+00:01:20,060 --> 00:01:23,569
+correspondait à la période des
+naissances.
+
+38
+00:01:23,920 --> 00:01:25,079
+Mais
+
+39
+00:01:25,090 --> 00:01:26,869
+le climat change !
+
+40
+00:01:27,030 --> 00:01:28,829
+En devenant plus doux,
+
+41
+00:01:28,830 --> 00:01:32,069
+la période des chenilles a
+avancé d'une semaine !
+
+42
+00:01:32,070 --> 00:01:34,939
+Ce qui entraîne un manque de
+nourriture
+
+43
+00:01:34,950 --> 00:01:36,409
+pour les oiseaux !
+
+44
+00:01:36,420 --> 00:01:37,959
+Non mais elles abusent les
+chenilles !
+
+45
+00:01:37,960 --> 00:01:39,699
+Tout changer parce qu'elles
+préfèrent une météo
+
+46
+00:01:39,700 --> 00:01:41,029
+comme ci, ou une météo comme ça
+!
+
+47
+00:01:41,030 --> 00:01:42,029
+Ça se fait pas !
+
+48
+00:01:42,030 --> 00:01:43,429
+Tu n'as pas écouté,
+
+49
+00:01:43,430 --> 00:01:45,639
+la météo c'est autre chose !
+
+50
+00:01:45,640 --> 00:01:47,489
+C'est quelque chose qui change
+très vite !
+
+51
+00:01:47,710 --> 00:01:48,919
+Un jour il pleut,
+
+52
+00:01:49,670 --> 00:01:51,279
+un jour il fait beau !
+
+53
+00:01:52,810 --> 00:01:53,899
+- Un jour il pleut,...
+
+54
+00:01:53,900 --> 00:01:55,069
+- Oui bon ça va !
+
+55
+00:01:55,410 --> 00:01:57,279
+Il a dit climat, pas météo !
+
+56
+00:01:58,590 --> 00:01:59,589
+À l'inverse,
+
+57
+00:01:59,590 --> 00:02:02,309
+le climat c'est quelque chose
+qui dure pendant des années,
+
+58
+00:02:02,310 --> 00:02:04,039
+voir des centaines d'années !
+
+59
+00:02:04,350 --> 00:02:05,699
+Sur notre planète,
+
+60
+00:02:05,700 --> 00:02:07,589
+il y a plusieurs climats
+différents.
+
+61
+00:02:07,600 --> 00:02:10,129
+Tiens, c'est vrai ça, pourquoi
+c'est pas le même partout ?
+
+62
+00:02:11,100 --> 00:02:12,659
+Il y a plusieurs raisons,
+
+63
+00:02:12,980 --> 00:02:15,909
+la première, c'est parce que
+notre Terre est ronde.
+
+64
+00:02:16,120 --> 00:02:17,119
+Du coup,
+
+65
+00:02:17,120 --> 00:02:18,529
+les rayons du soleil,
+
+66
+00:02:18,530 --> 00:02:19,649
+n'arrivent pas partout
+
+67
+00:02:19,650 --> 00:02:20,889
+de la même manière.
+
+68
+00:02:21,480 --> 00:02:23,069
+Prenons l'équateur,
+
+69
+00:02:23,500 --> 00:02:24,499
+regarde,
+
+70
+00:02:24,500 --> 00:02:26,919
+c'est l'endroit le plus près du
+soleil.
+
+71
+00:02:27,210 --> 00:02:29,119
+Et les rayons sont concentrés.
+
+72
+00:02:29,650 --> 00:02:31,649
+On retrouve le climat,
+
+73
+00:02:32,040 --> 00:02:33,379
+heu, équatorial ?
+
+74
+00:02:33,390 --> 00:02:34,549
+C'est ça !
+
+75
+00:02:34,550 --> 00:02:37,349
+Beaucoup de pluie, une
+température très chaude,
+
+76
+00:02:37,350 --> 00:02:38,559
+toute l'année !
+
+77
+00:02:38,670 --> 00:02:40,929
+Par contre, si on va un peu au
+dessus,
+
+78
+00:02:41,060 --> 00:02:42,989
+on a un climat : aride.
+
+79
+00:02:43,340 --> 00:02:44,889
+Presque jamais de pluie,
+
+80
+00:02:45,280 --> 00:02:47,029
+mais encore très chaud.
+
+81
+00:02:47,140 --> 00:02:49,089
+Ah mais qu'est-ce qui se passe ?
+J'ai... j'ai...
+
+82
+00:02:49,100 --> 00:02:50,459
+soif !
+
+83
+00:02:50,600 --> 00:02:51,639
+Et tout en haut :
+
+84
+00:02:51,640 --> 00:02:53,359
+le climat polaire.
+
+85
+00:02:53,430 --> 00:02:54,429
+Ici,
+
+86
+00:02:54,430 --> 00:02:55,879
+les faisceaux s'étalent
+
+87
+00:02:55,890 --> 00:02:57,529
+et deviennent moins forts.
+
+88
+00:02:57,800 --> 00:03:00,209
+Du coup, il peut faire vraiment
+froid.
+
+89
+00:03:00,350 --> 00:03:02,929
+D'autant que ce sont les
+endroits les plus éloignés
+
+90
+00:03:02,930 --> 00:03:04,409
+avec le soleil.
+
+91
+00:03:04,830 --> 00:03:07,909
+On peut revenir à un climat
+continental ?
+
+92
+00:03:09,270 --> 00:03:12,129
+Oh, merci ! Ok, il y a
+plusieurs climats.
+
+93
+00:03:12,240 --> 00:03:14,119
+Mais ça n'explique pas
+
+94
+00:03:14,120 --> 00:03:15,659
+pourquoi ils sont en train de
+changer.
+
+95
+00:03:15,660 --> 00:03:17,019
+Non, c'est vrai ça !
+
+96
+00:03:17,120 --> 00:03:20,489
+Peut-être que quelque chose
+modifie les rayons du soleil.
+
+97
+00:03:20,500 --> 00:03:23,209
+Mhh, mais qui aurait le pouvoir
+de faire ça ?
+
+98
+00:03:23,460 --> 00:03:24,719
+Je ne veux pas me me mêler,
+
+99
+00:03:24,720 --> 00:03:26,349
+de ce qui ne me regarde pas,
+
+100
+00:03:26,580 --> 00:03:29,769
+mais l'atmosphère peut
+influencer
+
+101
+00:03:29,770 --> 00:03:32,139
+les rayons du soleil.
+
+102
+00:03:32,630 --> 00:03:33,759
+Pas faux !
+
+103
+00:03:33,760 --> 00:03:35,269
+Vite ! Au canon !
+
+104
+00:03:41,230 --> 00:03:42,729
+Sous-titrage : Robi Waquet
+

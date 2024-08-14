@@ -1,19 +1,336 @@
-2
-00:00:00,000 --> 00:00:00,498
-Test des sous-titres pour le français,
-Les sous-titres fonctionnent.
+﻿1
+00:00:05,688 --> 00:00:06,797
+Yes, prems !
 
 2
-00:00:00,498 --> 00:00:02,827
-- Here's what I love most
-about food and diet.
+00:00:06,798 --> 00:00:07,977
+Non, non.
 
 3
-00:00:02,827 --> 00:00:06,383
-We all eat several times a day,
-and we're totally in charge
+00:00:07,978 --> 00:00:09,469
+Ah mais c'est pas vrai !
 
 4
-00:00:06,383 --> 00:00:09,427
-of what goes on our plate
-and what stays off.
+00:00:09,914 --> 00:00:11,617
+Bon, pourquoi on est ici ?
+
+5
+00:00:11,945 --> 00:00:13,562
+Pour trouver la source
+
+6
+00:00:13,563 --> 00:00:15,242
+des gaz à effet de serre.
+
+7
+00:00:15,523 --> 00:00:18,188
+Ah oui, parce que tu penses qu'ici
+on va en trouver des...
+
+8
+00:00:19,141 --> 00:00:20,211
+Ahh, kof, kof !
+
+9
+00:00:20,422 --> 00:00:21,664
+Effectivement,
+
+10
+00:00:21,938 --> 00:00:22,938
+ça se pourrait bien !
+
+11
+00:00:23,133 --> 00:00:24,133
+Kof !
+
+12
+00:00:24,134 --> 00:00:25,375
+Ok,
+
+13
+00:00:25,797 --> 00:00:27,672
+bon bah j'ai trouvé la première source :
+
+14
+00:00:27,813 --> 00:00:29,000
+La voiture.
+
+15
+00:00:29,227 --> 00:00:30,586
+Une solution
+
+16
+00:00:30,727 --> 00:00:33,023
+serait de faire plus de trajets à vélo
+
+17
+00:00:33,024 --> 00:00:34,781
+ou en transports en communs.
+
+18
+00:00:38,039 --> 00:00:39,719
+Ce que tu dois savoir,
+
+19
+00:00:39,945 --> 00:00:41,172
+c'est que le carbone,
+
+20
+00:00:41,173 --> 00:00:43,461
+c'est aussi un cycle naturel.
+
+21
+00:00:43,844 --> 00:00:47,703
+il entre dans l'atmosphère,
+puis quitte l'atmosphère
+
+22
+00:00:47,704 --> 00:00:48,984
+tout le temps.
+
+23
+00:00:49,453 --> 00:00:51,007
+Les océans par exemple,
+
+24
+00:00:51,390 --> 00:00:53,648
+ce sont de gros reversoirs à carbone,
+
+25
+00:00:53,797 --> 00:00:55,250
+les forêts aussi,
+
+26
+00:00:55,273 --> 00:00:56,500
+tout comme le sol.
+
+27
+00:00:56,859 --> 00:01:00,297
+Et tous libèrent naturellement du carbone
+
+28
+00:01:00,298 --> 00:01:01,906
+vers l'atmosphère.
+
+29
+00:01:01,907 --> 00:01:02,973
+Ah mais sérieusement ?
+
+30
+00:01:02,974 --> 00:01:04,820
+Mais se sont de gros pollueurs
+tout de même !
+
+31
+00:01:04,821 --> 00:01:07,337
+Non, car la nature est bien faite.
+
+32
+00:01:07,836 --> 00:01:10,274
+Les océans, les forêts et le sol,
+
+33
+00:01:10,275 --> 00:01:12,306
+captent aussi du carbone,
+
+34
+00:01:12,307 --> 00:01:14,642
+et au final, ça s'équilibre.
+
+35
+00:01:14,642 --> 00:01:16,040
+C'est ainsi !
+
+36
+00:01:16,407 --> 00:01:20,064
+Ça permet d'avoir toujours un peu
+de gaz à effet de serre dans l'atmosphère.
+
+37
+00:01:20,372 --> 00:01:21,614
+Souviens-toi,
+
+38
+00:01:21,778 --> 00:01:22,942
+on en a besoin !
+
+39
+00:01:23,606 --> 00:01:24,794
+Hé hop-là !
+
+40
+00:01:24,795 --> 00:01:26,356
+Je te présente ma nouvelle usine
+
+41
+00:01:26,357 --> 00:01:28,239
+pour fabriquer des objets trop modernes
+
+42
+00:01:28,240 --> 00:01:29,849
+top-tendance, hyper high-tech.
+
+43
+00:01:30,427 --> 00:01:32,606
+Et là maintenant, ça s'équilibre toujours ?
+
+44
+00:01:32,810 --> 00:01:37,575
+Mais non, ton usine a besoin d'énergie,
+donc elle brûle sûrement de pétrole !
+
+45
+00:01:37,942 --> 00:01:39,567
+Oui, mais comme je te l'ai dit,
+
+46
+00:01:39,833 --> 00:01:41,637
+elle fabrique des objets trop bien.
+
+47
+00:01:41,810 --> 00:01:44,200
+Mouais, pas sûr qu'on en ai besoin.
+
+48
+00:01:44,201 --> 00:01:45,856
+Compte pas sur moi pour les acheter !
+
+49
+00:01:47,091 --> 00:01:48,427
+J'ai une idée !
+
+50
+00:01:48,567 --> 00:01:50,833
+On dit que les arbres sont
+des puits à carbone,
+
+51
+00:01:50,834 --> 00:01:53,161
+c'est à dire qu'ils peuvent
+en stocker plus.
+
+52
+00:01:53,162 --> 00:01:55,709
+Dons, si je rajoute des arbres :
+
+53
+00:01:55,710 --> 00:01:57,927
+Hop, ça s'équilibre !
+
+54
+00:02:01,224 --> 00:02:03,396
+Mais, pourquoi tu fais ça ?
+
+55
+00:02:03,739 --> 00:02:06,028
+Les ouvriers de mon usine ont faim !
+
+56
+00:02:06,239 --> 00:02:09,685
+J'ai besoin de place
+pour faire pousser des céréales !
+
+57
+00:02:10,083 --> 00:02:12,122
+Et je veux aussi des bœufs, pour la viande.
+
+58
+00:02:12,123 --> 00:02:15,396
+Bah là, ça s'équilibre plus du tout hein !
+
+59
+00:02:15,404 --> 00:02:18,489
+Les arbres que tu as coupés
+n'absorbent plus de carbone,
+
+60
+00:02:18,669 --> 00:02:21,396
+et en plus, quand ils meurent,
+ils en relâchent !
+
+61
+00:02:21,614 --> 00:02:25,293
+oh et regarde les bœufs, ils ont des gaz !
+
+62
+00:02:25,606 --> 00:02:27,692
+Le bétail libère du méthane,
+
+63
+00:02:28,090 --> 00:02:30,043
+un autre gaz à effet de serre.
+
+64
+00:02:30,871 --> 00:02:34,809
+Avec tout ça, l'équilibre est rompu.
+
+65
+00:02:37,496 --> 00:02:40,051
+Mhhh, les emballages.
+
+66
+00:02:40,293 --> 00:02:41,293
+Et oui !
+
+67
+00:02:41,590 --> 00:02:45,153
+Il faut beaucoup d'énergie et
+de ressources pour fabriquer les emballages
+
+68
+00:02:45,154 --> 00:02:48,621
+cela a forcément un impact carbone.
+
+69
+00:02:48,778 --> 00:02:51,598
+Du coup, il faut aussi choisir au maximum
+des choses sans emballage.
+
+70
+00:02:54,285 --> 00:02:56,028
+Oh regardes ! Du fromage français !
+
+71
+00:02:56,029 --> 00:02:58,231
+Attends, tu l'a testé ?
+
+72
+00:03:00,309 --> 00:03:03,848
+On est aux Etats-Unis,
+mais ce fromage vient de France !
+
+73
+00:03:04,035 --> 00:03:06,614
+Comme nous,
+il a fait des milliers de kilomètres !
+
+74
+00:03:06,817 --> 00:03:09,754
+Non mais il est peut-être venu en stop.
+
+75
+00:03:09,984 --> 00:03:13,125
+Plutôt en avion, ou dans un gros bateau !
+
+76
+00:03:13,328 --> 00:03:15,203
+Des transports très polluants !
+
+77
+00:03:15,382 --> 00:03:19,132
+Oh, du coup il faut manger des produits
+qui viennent de près de chez soi ?
+
+78
+00:03:19,179 --> 00:03:20,710
+Oui ! Il faut vite rentrer en France
+
+79
+00:03:20,711 --> 00:03:23,062
+raconter aux autres tout
+ce que l'on vient de découvrir !
+
+80
+00:03:24,023 --> 00:03:25,030
+Sous-titrage : Robi Waquet
+

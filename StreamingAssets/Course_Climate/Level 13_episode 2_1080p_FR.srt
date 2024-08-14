@@ -1,19 +1,338 @@
-2
-00:00:00,000 --> 00:00:00,498
-Test des sous-titres pour le français,
-Les sous-titres fonctionnent.
+﻿1
+00:00:00,148 --> 00:00:01,211
+Oh !
 
 2
-00:00:00,498 --> 00:00:02,827
-- Here's what I love most
-about food and diet.
+00:00:03,477 --> 00:00:05,022
+Ah mais, t'es déjà là ?
 
 3
-00:00:02,827 --> 00:00:06,383
-We all eat several times a day,
-and we're totally in charge
+00:00:05,023 --> 00:00:08,226
+Bruh, tu voulais me montrer le climat
+montagnard c'est ça ?
 
 4
-00:00:06,383 --> 00:00:09,427
-of what goes on our plate
-and what stays off.
+00:00:08,233 --> 00:00:11,718
+Mais non, nous sommes venus en haut
+de cette montagne pour observer
+
+5
+00:00:11,734 --> 00:00:13,367
+l'atmosphère !
+
+6
+00:00:13,539 --> 00:00:16,336
+Alors, oui je te l'accorde,
+la vue est superbe,
+
+7
+00:00:16,337 --> 00:00:18,852
+mais je ne vois rien.
+
+8
+00:00:18,853 --> 00:00:20,904
+Ton atmosphère n'est pas là,
+tu t'es trompée Mori !
+
+9
+00:00:24,787 --> 00:00:27,428
+Un scaphandre, mais on est à la montagne,
+pas à la mer.
+
+10
+00:00:39,529 --> 00:00:42,701
+Et maintenant, tu la vois ton atmosphère ?
+
+11
+00:00:43,131 --> 00:00:44,131
+Négatif,
+
+12
+00:00:44,132 --> 00:00:45,310
+je ne vois rien du tout.
+
+13
+00:00:45,900 --> 00:00:47,455
+C'est vraiment pas ton jour Mori.
+
+14
+00:00:47,947 --> 00:00:48,947
+Ah ouais ?
+
+15
+00:00:48,948 --> 00:00:51,619
+Ok, vas-y, enlève ton casque !
+
+16
+00:00:56,721 --> 00:00:59,236
+Mais, il n'y a pas d'oxygène ici !
+
+17
+00:00:59,682 --> 00:01:00,830
+Tiens, tiens.
+
+18
+00:01:01,197 --> 00:01:02,697
+Et la température ?
+
+19
+00:01:07,993 --> 00:01:08,993
+Mais je comprends pas !
+
+20
+00:01:08,994 --> 00:01:10,970
+Même la nuit il ne fait pas
+aussi glacial sur
+
+21
+00:01:10,971 --> 00:01:12,158
+la terre !
+
+22
+00:01:12,549 --> 00:01:13,580
+En fait,
+
+23
+00:01:13,581 --> 00:01:15,603
+l'atmosphère ne se voit pas.
+
+24
+00:01:15,604 --> 00:01:17,057
+Ce sont des gaz !
+
+25
+00:01:17,267 --> 00:01:18,510
+C'est l'oxygène,
+
+26
+00:01:18,511 --> 00:01:19,517
+ah,
+
+27
+00:01:19,518 --> 00:01:21,135
+que tu respires, par exemple !
+
+28
+00:01:21,136 --> 00:01:23,111
+Mais aussi beaucoup d'azote,
+
+29
+00:01:23,483 --> 00:01:24,783
+du dioxyde de carbone,
+
+30
+00:01:24,784 --> 00:01:25,784
+ho là,
+
+31
+00:01:26,111 --> 00:01:27,221
+et de la vapeur d'eau.
+
+32
+00:01:27,400 --> 00:01:28,611
+Sur la Lune,
+
+33
+00:01:28,612 --> 00:01:30,385
+il n'y a a presque pas d'atmosphère !
+
+34
+00:01:30,386 --> 00:01:31,971
+Contrairement à ici.
+
+35
+00:01:38,924 --> 00:01:41,182
+Ho-ho, incroyable tes lunettes.
+
+36
+00:01:41,183 --> 00:01:42,533
+Maintenant regardes.
+
+37
+00:01:42,689 --> 00:01:45,580
+Les rayons du soleil viennent
+chauffer notre planète
+
+38
+00:01:45,713 --> 00:01:48,260
+l'atmosphère renvoi un quart des rayons,
+
+39
+00:01:48,447 --> 00:01:50,322
+et absorbe un autre quart.
+
+40
+00:01:50,822 --> 00:01:53,587
+Du coup, il n'y a que la moitié
+qui atteint notre sol
+
+41
+00:01:53,588 --> 00:01:55,307
+et les océans pour les réchauffer.
+
+42
+00:01:55,588 --> 00:01:56,971
+C'est très important car
+
+43
+00:01:56,972 --> 00:02:00,166
+cela permet au sol et aux océans de ne pas
+être gelés.
+
+44
+00:02:00,167 --> 00:02:01,885
+Il n'y aurait pas de vie sinon.
+
+45
+00:02:02,611 --> 00:02:03,728
+Ensuite,
+
+46
+00:02:03,729 --> 00:02:07,721
+le sol et les océans laissent repartir
+cette chaleur vers l'espace.
+
+47
+00:02:08,182 --> 00:02:10,517
+Mais l'atmosphère retient une partie.
+
+48
+00:02:10,939 --> 00:02:12,642
+En retenant cette chaleur,
+
+49
+00:02:12,643 --> 00:02:15,182
+l’atmosphère joue le rôle d'une sphère.
+
+50
+00:02:15,447 --> 00:02:17,283
+Comme quand tu veux faire pousser
+des légumes,
+
+51
+00:02:17,291 --> 00:02:19,103
+et qu'ils n’attrapent pas froid.
+
+52
+00:02:19,104 --> 00:02:21,104
+Ah mais c'est ce qu'on appelle
+l'effet de serre !
+
+53
+00:02:21,105 --> 00:02:22,144
+Voilà !
+
+54
+00:02:22,145 --> 00:02:25,363
+Un effet naturel et obligatoire
+pour la vie.
+
+55
+00:02:25,800 --> 00:02:28,199
+Sinon on serait, ha !
+
+56
+00:02:28,200 --> 00:02:29,910
+Bah comme te pieds tiens !
+
+57
+00:02:30,042 --> 00:02:32,683
+Huh huh, tout cela a l'air
+de bien fonctionner.
+
+58
+00:02:32,793 --> 00:02:34,480
+En tout cas, mieux que sur la lune.
+
+59
+00:02:34,481 --> 00:02:37,441
+En gros, c'est comme une grande clim
+pour réguler la température.
+
+60
+00:02:37,824 --> 00:02:39,277
+Bon, bah il est où le problème ?
+
+61
+00:02:41,503 --> 00:02:44,261
+Du beurre ? C'est pour des sandwichs ?
+Super idée !
+
+62
+00:02:44,262 --> 00:02:46,066
+Mais non, regarde !
+
+63
+00:02:46,394 --> 00:02:48,113
+Je mets les deux au soleil :
+
+64
+00:02:48,114 --> 00:02:49,550
+mais au dessus d'un,
+
+65
+00:02:49,551 --> 00:02:51,355
+je mets un bol en verre.
+
+66
+00:02:51,542 --> 00:02:54,839
+C'est comme si j'augmentais
+l'épaisseur de l'atmosphère.
+
+67
+00:02:55,089 --> 00:02:57,495
+Hun hun, et la température augmente.
+
+68
+00:02:57,746 --> 00:02:59,010
+Comme je te l'ai dis.
+
+69
+00:02:59,011 --> 00:03:00,351
+L'atmosphère
+
+70
+00:03:00,352 --> 00:03:01,406
+ce sont des gaz
+
+71
+00:03:01,407 --> 00:03:02,750
+mais c'est pareil.
+
+72
+00:03:03,538 --> 00:03:05,468
+Si on augmente les gaz,
+
+73
+00:03:05,491 --> 00:03:07,147
+l'atmosphère devient
+
+74
+00:03:07,148 --> 00:03:08,484
+plus épaisse !
+
+75
+00:03:08,688 --> 00:03:09,976
+Et donc l'effet de serre
+
+76
+00:03:09,977 --> 00:03:11,164
+augmente !
+
+77
+00:03:11,711 --> 00:03:15,898
+Mais qui aurait intérêt à envoyer
+plus de gaz dans l'atmosphère ?
+
+78
+00:03:16,242 --> 00:03:18,773
+Hum hum, j'ai peut-être une idée.
+
+79
+00:03:18,774 --> 00:03:20,133
+Alors vite, au canon !
+
+80
+00:03:20,914 --> 00:03:21,914
+Sous-titres : Robi Waquet
+
