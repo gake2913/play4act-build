@@ -1,340 +1,241 @@
-1
-00:00:00,125 --> 00:00:01,211
-Oh!
-
-2
-00:00:03,477 --> 00:00:05,022
+﻿1
+00:00:01,560 --> 00:00:04,797
 Du bist schon da?
 
+2
+00:00:04,880 --> 00:00:06,840
+Du wolltest mir das
+Bergklima zeigen, stimmts?
+
 3
-00:00:05,023 --> 00:00:08,226
-Bruh, du wolltest mir das
-das Bergklima zeigen, ist es das?
+00:00:06,923 --> 00:00:12,160
+Nein, wir sind auf diesen Berg
+gekommen, um die Atmosphäre zu beobachten.
 
 4
-00:00:08,227 --> 00:00:11,712
-Aber nein, wir sind auf diesen
-von diesem Berg, um zu beobachten
+00:00:12,243 --> 00:00:14,200
+Also ja, ich gebe es zu.
 
 5
-00:00:11,734 --> 00:00:13,367
-die Atmosphäre zu beobachten!
+00:00:14,283 --> 00:00:16,757
+Die Aussicht ist großartig,
+aber ich sehe nichts.
 
 6
-00:00:13,539 --> 00:00:16,336
-Also, ja, ich gebe zu,
-die Aussicht ist großartig,
+00:00:16,840 --> 00:00:17,880
+Deine Atmosphäre ist nicht da.
 
 7
-00:00:16,337 --> 00:00:18,852
-aber ich kann nichts sehen.
+00:00:17,963 --> 00:00:21,480
+Du hast dich geirrt, Mori.
 
 8
-00:00:18,853 --> 00:00:20,904
-Deine Atmosphäre ist nicht da.
-Du hast dich geirrt, Mori!
+00:00:25,250 --> 00:00:31,000
+Ein Taucheranzug, aber wir sind
+in den Bergen, nicht am Meer.
 
 9
-00:00:24,787 --> 00:00:27,428
-Ein Taucheranzug, aber wir sind in den Bergen,
-nicht am Meer.
-
-10
-00:00:39,529 --> 00:00:42,701
+00:00:33,400 --> 00:00:44,200
 Und jetzt siehst du deine Atmosphäre?
 
+10
+00:00:44,283 --> 00:00:47,040
+Negativ, Ich sehe absolut nichts.
+
 11
-00:00:43,131 --> 00:00:44,131
-Negativ,
+00:00:47,123 --> 00:00:49,480
+Heute ist nicht dein Tag, Mori.
 
 12
-00:00:44,132 --> 00:00:45,310
-Ich kann nichts sehen.
+00:00:49,563 --> 00:00:56,920
+Ach ja?
+Okay, zieh deinen Helm aus.
 
 13
-00:00:45,900 --> 00:00:47,455
-Heute ist wirklich nicht dein Tag, Mori.
+00:00:57,003 --> 00:01:00,880
+Aber hier gibt es keinen Sauerstoff.
+
 
 14
-00:00:47,947 --> 00:00:48,947
-Ach ja?
+00:01:00,963 --> 00:01:02,120
+Interessant.
 
 15
-00:00:48,948 --> 00:00:51,619
-Okay, nur zu, nimm deinen Helm ab!
+00:01:02,203 --> 00:01:04,920
+Und die Temperatur?
 
 16
-00:00:56,721 --> 00:00:59,236
-Aber hier gibt es keinen Sauerstoff!
+00:01:11,125 --> 00:01:15,000
+Sogar in der Nacht ist
+es auf der Erde nicht so eiskalt.
 
 17
-00:00:59,682 --> 00:01:00,830
-So, so.
+00:01:17,125 --> 00:01:19,120
+Die Atmosphäre ist nicht sichtbar.
 
 18
-00:01:01,164 --> 00:01:02,664
-Und was ist mit der Temperatur?
+00:01:19,203 --> 00:01:22,800
+Sie besteht aus Gasen, die du atmest.
 
 19
-00:01:07,993 --> 00:01:08,993
-Aber ich verstehe das nicht!
+00:01:22,883 --> 00:01:29,640
+Das ist zum Beispiel Sauerstoff,
+aber auch viel Stickstoff, Kohlendoxid.
 
 20
-00:01:08,994 --> 00:01:10,970
-Auch nachts ist es nicht
-so eisig auf...
+00:01:29,723 --> 00:01:31,560
+Oh, und Wasserdampf.
 
 21
-00:01:10,971 --> 00:01:12,158
-auf der Erde!
+00:01:31,643 --> 00:01:33,960
+Auf dem Mond gibt es kaum eine Atmosphäre.
 
 22
-00:01:12,549 --> 00:01:13,580
-In der Tat,
-
-23
-00:01:13,581 --> 00:01:15,603
-ist die Atmosphäre nicht sichtbar.
-
-24
-00:01:15,604 --> 00:01:17,057
-Das ist Gas!
-
-25
-00:01:17,267 --> 00:01:18,510
-Das ist der Sauerstoff,
-
-26
-00:01:18,511 --> 00:01:19,517
-ah,
-
-27
-00:01:19,518 --> 00:01:21,135
-die man atmet, zum Beispiel!
-
-28
-00:01:21,136 --> 00:01:23,111
-Aber auch eine Menge Stickstoff,
-
-29
-00:01:23,483 --> 00:01:24,783
-Kohlendioxid,
-
-30
-00:01:24,784 --> 00:01:25,784
-ho dort,
-
-31
-00:01:26,111 --> 00:01:27,221
-und Wasserdampf.
-
-32
-00:01:27,400 --> 00:01:28,611
-Auf dem Mond,
-
-33
-00:01:28,612 --> 00:01:30,385
-gibt es fast keine Atmosphäre!
-
-34
-00:01:30,386 --> 00:01:31,971
+00:01:34,043 --> 00:01:38,120
 Anders als hier.
 
+23
+00:01:42,800 --> 00:01:45,520
+Ha ha, deine Brille ist unglaublich.
+
+24
+00:01:45,603 --> 00:01:47,480
+Jetzt schau.
+
+25
+00:01:47,563 --> 00:01:50,360
+Die Sonnenstrahlen
+erwärmen unseren Planeten.
+
+26
+00:01:50,443 --> 00:01:54,197
+Die Atmosphäre reflektiert ein Viertel der
+Strahlen und absorbiert
+
+27
+00:01:54,280 --> 00:01:55,200
+ein weiteres Viertel.
+
+28
+00:01:55,283 --> 00:02:00,000
+Also nur die Hälfte erreicht unseren
+Boden und die Ozeane, sie zu erwärmen.
+
+29
+00:02:00,083 --> 00:02:04,720
+Das ist sehr wichtig, denn es verhindert,
+dass der Boden und die Ozeane gefrieren.
+
+30
+00:02:04,803 --> 00:02:06,917
+Ohne das gäbe es kein Leben.
+
+31
+00:02:07,417 --> 00:02:12,080
+Zunächst gibt der Boden und die Ozeane
+diese Wärme wieder in den Weltraum ab.
+
+32
+00:02:12,163 --> 00:02:15,160
+Aber die Atmosphäre
+hält einen Teil zurück.
+
+33
+00:02:15,243 --> 00:02:20,440
+Indem sie diese Wärme zurückhält, wirkt
+die Atmosphäre wie ein Gewächshaus, wie
+
+34
+00:02:20,523 --> 00:02:23,360
+wenn du Gemüse anbauen willst
+und sie nicht kalt werden sollen.
+
 35
-00:01:38,924 --> 00:01:41,182
-Ho-ho, deine Brille ist toll.
+00:02:23,443 --> 00:02:26,080
+Das nennt man den Treibhaus-Effekt.
+Siehst du?
 
 36
-00:01:41,183 --> 00:01:42,533
-Jetzt schau dir das an.
+00:02:26,163 --> 00:02:29,640
+Ein natürlicher und notwendiger
+Effekt für das Leben.
 
 37
-00:01:42,689 --> 00:01:45,580
-Die Strahlen der Sonne kommen
-erhitzen unseren Planeten
+00:02:29,723 --> 00:02:34,277
+Sonst wären wir alle,
+na, wie deine Füße eben.
 
 38
-00:01:45,713 --> 00:01:48,260
-die Atmosphäre kehrt zurück
-ein Viertel der Strahlen zurück,
+00:02:34,360 --> 00:02:35,480
+Alles scheint gut zu funktionieren.
 
 39
-00:01:48,447 --> 00:01:50,322
-und absorbiert ein weiteres Viertel.
+00:02:35,563 --> 00:02:37,680
+Auf jeden Fall besser als auf dem Mond.
 
 40
-00:01:50,822 --> 00:01:53,587
-Es ist also nur die Hälfte
-die unseren Boden erreicht
+00:02:37,763 --> 00:02:39,960
+Im Grunde ist es wie eine große
+Klimaanlage, um die
 
 41
-00:01:53,588 --> 00:01:55,307
-und die Ozeane, um sie zu erwärmen.
+00:02:40,043 --> 00:02:43,560
+Temperaturen zu regulieren.
+Also, wo ist das Problem?
 
 42
-00:01:55,588 --> 00:01:56,971
-Dies ist sehr wichtig, weil
+00:02:43,643 --> 00:02:45,760
+Butter?
+Ist das für Sandwiches?
 
 43
-00:01:56,972 --> 00:02:00,166
-dies ermöglicht, dass das Land und die Ozeane nicht
-gefroren sind.
+00:02:45,843 --> 00:02:48,250
+Tolle Idee.
+Aber nein, schau mal.
 
 44
-00:02:00,167 --> 00:02:01,885
-Sonst gäbe es kein Leben.
+00:02:48,833 --> 00:02:53,720
+Ich lege beide in die Sonne, aber
+über einen stelle ich eine Glasschale.
 
 45
-00:02:02,611 --> 00:02:03,728
-Dann,
+00:02:53,803 --> 00:02:57,920
+Es ist, als würde ich die
+Dicke der Atmosphäre erhöhen.
 
 46
-00:02:03,729 --> 00:02:07,721
-geben Boden und Ozeane
-diese Wärme in den Weltraum.
+00:02:58,003 --> 00:03:00,240
+Und die Temperatur steigt.
 
 47
-00:02:08,182 --> 00:02:10,517
-Aber die Atmosphäre hält einen Teil davon zurück.
+00:03:00,323 --> 00:03:04,320
+Wie ich dir schon sagte, die
+Atmosphäre besteht aus Gasen.
 
 48
-00:02:10,939 --> 00:02:12,642
-Sie hält die Hitze zurück,
+00:03:04,403 --> 00:03:08,880
+Und wenn die Konzentration bestimmter
+Gase, wie zum Beispiel Kohlendioxid oder
 
 49
-00:02:12,643 --> 00:02:15,182
-die Atmosphäre wirkt wie eine Kugel.
+00:03:08,963 --> 00:03:12,720
+Methan, steigt, erhöht dies den
+Treibhaus-Effekt und die
 
 50
-00:02:15,447 --> 00:02:17,283
-Wenn man zum Beispiel Gemüse anbauen will
-von Gemüse,
+00:03:12,803 --> 00:03:14,750
+Temperaturen auf der Erde steigen.
 
 51
-00:02:17,291 --> 00:02:19,103
-und sich nicht erkälten will.
+00:03:14,833 --> 00:03:18,917
+Aber wer hätte Interesse daran, mehr
+Gas in die Atmosphäre zu schicken?
 
 52
-00:02:19,104 --> 00:02:21,104
-Ah, aber das ist es, was wir
-den Treibhauseffekt!
+00:03:19,417 --> 00:03:21,237
+Vielleicht habe ich eine Idee.
 
 53
-00:02:21,105 --> 00:02:22,144
-Na also, geht doch!
-
-54
-00:02:22,145 --> 00:02:25,363
-Ein natürlicher und obligatorischer Effekt
-für das Leben.
-
-55
-00:02:25,800 --> 00:02:28,199
-Sonst wären wir ja, ha!
-
-56
-00:02:28,200 --> 00:02:29,910
-Na, deine Füße halten ja!
-
-57
-00:02:30,042 --> 00:02:32,683
-Huh huh, es sieht alles so aus
-gut zu funktionieren.
-
-58
-00:02:32,793 --> 00:02:34,480
-Besser als auf dem Mond.
-
-59
-00:02:34,481 --> 00:02:37,441
-Im Grunde ist es wie eine große Klimaanlage
-um die Temperatur zu regulieren.
-
-60
-00:02:37,824 --> 00:02:39,277
-Und wo liegt das Problem?
-
-61
-00:02:41,503 --> 00:02:44,261
-Butter? Ist das für Sandwiches?
-Tolle Idee!
-
-62
-00:02:44,262 --> 00:02:46,066
-Nein, sieh dir das an!
-
-63
-00:02:46,394 --> 00:02:48,113
-Ich habe beide in die Sonne gestellt:
-
-64
-00:02:48,114 --> 00:02:49,550
-aber über einem,
-
-65
-00:02:49,551 --> 00:02:51,355
-habe ich eine Glasschale gestellt.
-
-66
-00:02:51,542 --> 00:02:54,839
-Es ist, als würde ich die
-die Dicke der Atmosphäre.
-
-67
-00:02:55,089 --> 00:02:57,495
-Hun hun, und die Temperatur steigt.
-
-68
-00:02:57,746 --> 00:02:59,010
-Genau wie ich es dir gesagt habe.
-
-69
-00:02:59,011 --> 00:03:00,351
-Die Atmosphäre
-
-70
-00:03:00,352 --> 00:03:01,406
-sie sind Gase
-
-71
-00:03:01,407 --> 00:03:02,750
-aber es ist dasselbe.
-
-72
-00:03:03,538 --> 00:03:05,468
-Wenn wir das Gas erhöhen,
-
-73
-00:03:05,491 --> 00:03:07,147
-wird die Atmosphäre
-
-74
-00:03:07,148 --> 00:03:08,484
-dicker!
-
-75
-00:03:08,688 --> 00:03:09,976
-Und so wird der Treibhauseffekt
-
-76
-00:03:09,977 --> 00:03:11,164
-zunehmen!
-
-77
-00:03:11,711 --> 00:03:15,898
-Aber wer wäre daran interessiert
-mehr Gas in die Atmosphäre zu schicken?
-
-78
-00:03:16,242 --> 00:03:18,773
-Ähm, vielleicht habe ich eine Idee.
-
-79
-00:03:18,774 --> 00:03:20,133
-Also schnell, zur Kanone!
-
-80
-00:03:20,850 --> 00:03:21,850
-Untertitel: Robi Waquet
-
+00:03:21,320 --> 00:03:22,400
+Schnell auf zu den Kanonen!
 

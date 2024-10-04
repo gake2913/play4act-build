@@ -1,19 +1,174 @@
-2
-00:00:00,000 --> 00:00:00,498
-Test Untertitel für Deutsch,
-Die Untertitel funktionieren.
+﻿1
+00:00:03,833 --> 00:00:06,870
+Hier sind wir wieder in Deutschland.
 
 2
-00:00:00,498 --> 00:00:02,827
-- Here's what I love most
-about food and diet.
+00:00:07,040 --> 00:00:11,440
+Ah, mein Lieblingszimmer.
 
 3
-00:00:02,827 --> 00:00:06,383
-We all eat several times a day,
-and we're totally in charge
+00:00:12,583 --> 00:00:13,840
+Siehst du, Mori?
 
 4
-00:00:06,383 --> 00:00:09,427
-of what goes on our plate
-and what stays off.
+00:00:14,083 --> 00:00:17,667
+Der Fortschritt, die Modernität, das, was
+uns vom Höhlenmenschen
+
+5
+00:00:17,833 --> 00:00:21,250
+unterscheidet, das ist es.
+
+6
+00:00:22,520 --> 00:00:29,083
+Was wäre, wenn wir den Fernseher
+ausschalten würden, Strom zu sparen?
+
+7
+00:00:32,917 --> 00:00:37,167
+Oh nein, nehmt mir
+nicht den Fernseher weg.
+
+8
+00:00:39,240 --> 00:00:41,320
+Oh, du hast es gesehen?
+
+9
+00:00:41,486 --> 00:00:44,230
+Es hatte einen positiven Effekt.
+Na toll.
+
+10
+00:00:44,400 --> 00:00:46,990
+Jetzt geht's los mit
+einer Welt ohne Fernsehen.
+
+11
+00:00:47,160 --> 00:00:49,833
+Deine Welt wird großartig sein, Mori.
+
+12
+00:00:50,000 --> 00:00:53,750
+Weil dir der Brettspielabend
+in Island nicht gefallen hat?
+
+13
+00:00:54,750 --> 00:00:56,583
+Oh ja, wir hatten eine Menge Spaß.
+
+14
+00:00:57,583 --> 00:01:01,870
+Ich sage ja nicht, dass wir den
+Fernseher abschaffen sollen.
+
+15
+00:01:02,040 --> 00:01:06,280
+Aber ihn nicht anzulassen, wenn man ihn
+nicht benötigt und seinen Verbrauch zu
+
+16
+00:01:06,446 --> 00:01:09,830
+reduzieren, ist schon ein erster Schritt.
+
+17
+00:01:10,000 --> 00:01:12,150
+Oh, ich habe noch eine Idee.
+
+18
+00:01:12,320 --> 00:01:17,480
+Wie wäre es, wenn du
+einen Pullover anziehst?
+
+19
+00:01:18,720 --> 00:01:21,990
+Wie wäre es, wenn wir die Heizung
+herunterdrehen
+
+20
+00:01:22,160 --> 00:01:26,333
+und wir könnten kürzer duschen,
+weniger heißes Wasser zu verbrauchen?
+
+21
+00:01:26,500 --> 00:01:27,870
+Nein, das ist zu viel.
+
+22
+00:01:28,040 --> 00:01:29,390
+Willkommen im Mittelalter.
+
+23
+00:01:29,560 --> 00:01:31,710
+Deine Ideen machen mich depressiv.
+
+24
+00:01:31,880 --> 00:01:34,360
+Aber ist dir kalt?
+
+25
+00:01:34,760 --> 00:01:36,830
+Nein.
+Was ist denn das Problem?
+
+26
+00:01:37,000 --> 00:01:39,750
+Also die Farbe.
+
+27
+00:01:39,920 --> 00:01:41,870
+Ich mag die Farbe des Pullovers nicht.
+
+28
+00:01:42,040 --> 00:01:46,083
+Wir können einen anderen für dich finden.
+
+29
+00:01:46,250 --> 00:01:48,500
+Aber es ist wahr, dass er funktioniert.
+
+30
+00:01:49,400 --> 00:01:52,920
+Könnten wir auch besser isolierte Fenster
+einbauen, um den Energiebedarf
+
+31
+00:01:53,086 --> 00:01:57,600
+für die Heizung zu senken?
+
+32
+00:01:59,583 --> 00:02:05,167
+Wir könnten auch viel mehr mit dem
+Fahrrad oder zu Fuß unterwegs sein.
+
+33
+00:02:05,333 --> 00:02:09,950
+Okay, es wird eine Welt, die Lust
+darauf macht, nachhaltig zu handeln.
+
+34
+00:02:10,120 --> 00:02:14,960
+Im Grunde müssen wir also einerseits
+erneuerbare Energien entwickeln und
+
+35
+00:02:15,126 --> 00:02:17,510
+andererseits unseren Verbrauch reduzieren.
+
+36
+00:02:17,680 --> 00:02:19,590
+Ohne das wird es deprimierend werden.
+
+37
+00:02:19,760 --> 00:02:21,310
+Eben.
+
+38
+00:02:21,480 --> 00:02:25,710
+Für mich ist es eher eine verschmutzte
+Welt, die mich depressiv macht.
+
+39
+00:02:25,880 --> 00:02:30,040
+Oh, ich habe noch viele Ideen, wie man
+den Energieverbrauch reduzieren kann.
+

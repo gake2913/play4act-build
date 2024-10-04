@@ -1,19 +1,172 @@
-2
-00:00:00,000 --> 00:00:00,498
-Test subtitles for english,
-The subtitles are working.
+﻿1
+00:00:00,640 --> 00:00:04,950
+You could have warned me that
+we were going to do 2000 kilometres.
 
 2
-00:00:00,498 --> 00:00:02,827
-- Here's what I love most
-about food and diet.
+00:00:05,120 --> 00:00:08,190
+Well, Iceland is definitely not next door.
 
 3
-00:00:02,827 --> 00:00:06,383
-We all eat several times a day,
-and we're totally in charge
+00:00:08,360 --> 00:00:11,470
+All the more reason to warn.
 
 4
-00:00:06,383 --> 00:00:09,427
-of what goes on our plate
-and what stays off.
+00:00:11,640 --> 00:00:13,000
+I was wrong.
+
+5
+00:00:13,917 --> 00:00:15,830
+I took a room without a TV.
+
+6
+00:00:16,000 --> 00:00:18,500
+Quick, we have to go again.
+
+7
+00:00:18,667 --> 00:00:21,670
+Wait, what if we made board games instead?
+
+8
+00:00:21,840 --> 00:00:25,083
+It's fun, and what's more,
+it doesn't use electricity.
+
+9
+00:00:26,083 --> 00:00:30,360
+We actually came here because Iceland
+
+10
+00:00:31,680 --> 00:00:36,920
+Is a country that only produces
+
+11
+00:00:37,086 --> 00:00:40,917
+its electricity with renewable energies.
+
+12
+00:00:41,083 --> 00:00:44,030
+They don't burn oil?
+Mm-hmm.
+
+13
+00:00:44,200 --> 00:00:45,590
+They don't burn gas?
+
+14
+00:00:45,760 --> 00:00:46,950
+Mm-mm.
+
+15
+00:00:47,120 --> 00:00:49,030
+But I don't even see any wind turbines.
+
+16
+00:00:49,200 --> 00:00:50,270
+How do they do it?
+
+17
+00:00:50,440 --> 00:00:52,910
+Iceland is a country
+with many mountains and rivers.
+
+18
+00:00:53,080 --> 00:00:58,710
+As a result, they produce 73% of
+their electricity with hydropower plants.
+
+19
+00:00:58,880 --> 00:01:01,870
+To create electricity,
+it's always the same thing.
+
+20
+00:01:02,040 --> 00:01:04,590
+You have to succeed in turning a turbine.
+
+21
+00:01:04,760 --> 00:01:09,280
+The dam sends water down
+the mountain in a long tight.
+
+22
+00:01:09,520 --> 00:01:13,000
+The water arrives so quick
+that it turns the turbine upon arrival.
+
+23
+00:01:13,680 --> 00:01:15,790
+And since the river always brings water.
+
+24
+00:01:15,960 --> 00:01:19,880
+That's why we say it's a renewable energy.
+
+25
+00:01:20,080 --> 00:01:22,430
+For the rest, they use
+heat from the ground.
+
+26
+00:01:22,600 --> 00:01:25,550
+It's called geothermal energy.
+
+27
+00:01:25,720 --> 00:01:27,830
+Deep down, the ground is warm.
+
+28
+00:01:28,000 --> 00:01:30,480
+As a result, they send the water deep.
+
+29
+00:01:30,646 --> 00:01:35,910
+It heats naturally and comes up very
+hot, sometimes in steam.
+
+30
+00:01:36,080 --> 00:01:40,390
+This water, naturally heated
+by our planet, becomes steam.
+
+31
+00:01:40,560 --> 00:01:46,200
+It rises so quickly that it also turns
+a turbine which produces electricity.
+
+32
+00:01:50,917 --> 00:01:53,070
+But Iceland is a small country.
+
+33
+00:01:53,240 --> 00:01:56,310
+There are only 370,000 inhabitants.
+
+34
+00:01:56,480 --> 00:01:58,070
+Electric needs are low.
+
+35
+00:01:58,240 --> 00:02:01,510
+It must be easier to do
+without fossil fuels.
+
+36
+00:02:01,680 --> 00:02:05,710
+It's true, and not all
+countries can have dams.
+
+37
+00:02:05,880 --> 00:02:08,950
+Maybe residents also need
+to change their habits.
+
+38
+00:02:09,120 --> 00:02:10,510
+That's to say, now?
+
+39
+00:02:10,680 --> 00:02:13,400
+Quick, let's go back to Germany.
+But we didn't sleep.
+

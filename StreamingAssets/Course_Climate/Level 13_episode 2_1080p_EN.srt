@@ -1,339 +1,231 @@
-1
-00:00:00,125 --> 00:00:01,211
-Oh!
+﻿1
+00:00:03,440 --> 00:00:05,880
+Oh, you're here already.
 
 2
-00:00:03,477 --> 00:00:05,022
-You are here yet?
+00:00:05,963 --> 00:00:08,557
+You wanted to show me mountain
+climate, didn't you?
 
 3
-00:00:05,023 --> 00:00:08,226
-Bruh, you wanted to show me
-the mountain climate, is that it?
+00:00:08,640 --> 00:00:09,560
+No.
 
 4
-00:00:08,227 --> 00:00:11,712
-But no, we came up
-of this mountain to observe
+00:00:09,643 --> 00:00:13,477
+We've come to the top of this mountain
+to observe the atmosphere.
 
 5
-00:00:11,734 --> 00:00:13,367
-the atmosphere!
+00:00:13,560 --> 00:00:14,720
+So yes, I'll give you that.
 
 6
-00:00:13,539 --> 00:00:16,336
-So, yes, I grant you,
-the view is superb,
+00:00:14,803 --> 00:00:17,880
+The view is amazing, but I see nothing.
 
 7
-00:00:16,337 --> 00:00:18,852
-but I can’t see anything.
+00:00:17,963 --> 00:00:19,360
+Your atmosphere isn't there.
 
 8
-00:00:18,853 --> 00:00:20,904
-Your atmosphere is not there.
-You were wrong, Mori!
+00:00:19,443 --> 00:00:23,080
+You got it wrong, Maury.
 
 9
-00:00:24,787 --> 00:00:27,428
-A diving suit, but we’re in the mountains,
-not to the sea.
+00:00:26,000 --> 00:00:27,640
+A diving suit.
 
 10
-00:00:39,529 --> 00:00:42,701
-And now you see your atmosphere?
+00:00:27,723 --> 00:00:29,960
+But we're in the mountains,
+not at the sea.
 
 11
-00:00:43,131 --> 00:00:44,131
-Negative,
+00:00:30,542 --> 00:00:44,120
+And now, do you see it?
 
 12
-00:00:44,132 --> 00:00:45,310
-I can’t see anything.
+00:00:44,203 --> 00:00:46,600
+Your atmosphere Is it a fear?
+Negative.
 
 13
-00:00:45,900 --> 00:00:47,455
-This really isn’t your day, Mori.
+00:00:46,683 --> 00:00:48,560
+I can't see anything at all.
 
 14
-00:00:47,947 --> 00:00:48,947
-Oh yeah?
+00:00:49,560 --> 00:00:51,375
+Oh, really?
+Okay, go ahead.
 
 15
-00:00:48,948 --> 00:00:51,619
-Okay, go ahead, take off your helmet!
+00:00:51,958 --> 00:00:53,560
+Take off your helmet.
 
 16
-00:00:56,721 --> 00:00:59,236
-But there’s no oxygen here!
+00:00:55,360 --> 00:01:00,200
+But there's no oxygen here.
+Oh, really?
 
 17
-00:00:59,682 --> 00:01:00,830
-Well, well.
+00:01:00,283 --> 00:01:03,640
+Really?
+And the temperature.
 
 18
-00:01:01,164 --> 00:01:02,664
-And what about the temperature?
+00:01:09,208 --> 00:01:14,000
+Even at night,
+it's not that cold on Earth.
 
 19
-00:01:07,993 --> 00:01:08,993
-But I don’t understand!
+00:01:16,320 --> 00:01:18,920
+The atmosphere isn't visible.
 
 20
-00:01:08,994 --> 00:01:10,970
-Even at night it doesn’t
-as icy on...
+00:01:19,003 --> 00:01:20,440
+It's gases.
 
 21
-00:01:10,971 --> 00:01:12,158
-on earth!
+00:01:20,523 --> 00:01:26,680
+It's oxygen that you're breathing,
+for example, but also a lot of nitrogen,
 
 22
-00:01:12,549 --> 00:01:13,580
-In fact,
+00:01:26,763 --> 00:01:33,600
+carbon dioxide, and water vapour,
+on the moon, there's hardly
 
 23
-00:01:13,581 --> 00:01:15,603
-the atmosphere is not visible.
+00:01:33,683 --> 00:01:37,960
+any atmosphere, unlike here.
 
 24
-00:01:15,604 --> 00:01:17,057
-This is gas!
+00:01:41,360 --> 00:01:44,200
+Oh, your glasses are amazing, Maury.
 
 25
-00:01:17,267 --> 00:01:18,510
-It’s the oxygen,
+00:01:44,283 --> 00:01:47,840
+Now look, The Sun's rays warm our planet.
 
 26
-00:01:18,511 --> 00:01:19,517
-ah,
+00:01:47,923 --> 00:01:53,520
+The atmosphere reflects a quarter
+of the rays and absorbs another quarter.
 
 27
-00:01:19,518 --> 00:01:21,135
-that you breathe, for example!
-
-28
-00:01:21,136 --> 00:01:23,111
-But also a lot of nitrogen,
-
-29
-00:01:23,483 --> 00:01:24,783
-carbon dioxide,
-
-30
-00:01:24,784 --> 00:01:25,784
-ho there,
-
-31
-00:01:26,111 --> 00:01:27,221
-and water vapour.
-
-32
-00:01:27,400 --> 00:01:28,611
-On the Moon,
-
-33
-00:01:28,612 --> 00:01:30,385
-there is almost no atmosphere!
-
-34
-00:01:30,386 --> 00:01:31,971
-Unlike here.
-
-35
-00:01:38,924 --> 00:01:41,182
-Ho-ho, your glasses are amazing.
-
-36
-00:01:41,183 --> 00:01:42,533
-Now look at this.
-
-37
-00:01:42,689 --> 00:01:45,580
-The sun’s rays are coming
-heat our planet
-
-38
-00:01:45,713 --> 00:01:48,260
-the atmosphere returns
-a quarter of the rays,
-
-39
-00:01:48,447 --> 00:01:50,322
-and absorbs another quarter.
-
-40
-00:01:50,822 --> 00:01:53,587
-So there’s only half
-that reaches our soil
-
-41
-00:01:53,588 --> 00:01:55,307
+00:01:53,603 --> 00:01:58,280
+So only half reaches our ground
 and the oceans to warm them.
 
+28
+00:01:58,363 --> 00:02:03,120
+It's very important because it prevents
+the soil and oceans from freezing.
+
+29
+00:02:03,203 --> 00:02:04,720
+There'd be no life otherwise.
+
+30
+00:02:04,803 --> 00:02:10,960
+Then the ground and the oceans
+lets this heat escape back to space.
+
+31
+00:02:11,043 --> 00:02:13,640
+But the atmosphere holds onto some of it.
+
+32
+00:02:13,723 --> 00:02:18,280
+By holding onto this When you eat,
+the atmosphere acts like a greenhouse,
+
+33
+00:02:18,363 --> 00:02:21,757
+like when you want to grow veggies
+and keep them from getting cold.
+
+34
+00:02:21,840 --> 00:02:23,397
+But that's what's called
+the greenhouse effect.
+
+35
+00:02:23,480 --> 00:02:24,560
+Here you go.
+
+36
+00:02:24,643 --> 00:02:27,800
+A natural and mandatory effect for life.
+
+37
+00:02:27,883 --> 00:02:32,480
+Otherwise, we'd all be Well,
+like your feet for that matter.
+
+38
+00:02:32,563 --> 00:02:35,720
+Everything seems to work fine,
+at least better than on the moon.
+
+39
+00:02:35,803 --> 00:02:39,440
+Basically, it's like a big air conditioner
+to regulate temperatures.
+
+40
+00:02:39,600 --> 00:02:41,083
+So where's the problem?
+
+41
+00:02:41,960 --> 00:02:44,080
+Butter?
+Is that for sandwiches?
+
 42
-00:01:55,588 --> 00:01:56,971
-This is very important because
+00:02:44,163 --> 00:02:46,583
+Great idea.
+But No, look.
 
 43
-00:01:56,972 --> 00:02:00,166
-this allows the land and oceans not to
-be frozen.
+00:02:47,167 --> 00:02:52,560
+I put both in the sunlight,
+but over one, I place a glass bowl.
 
 44
-00:02:00,167 --> 00:02:01,885
-There would be no life otherwise.
+00:02:52,643 --> 00:02:56,040
+It's like increasing
+the atmosphere's thickness.
 
 45
-00:02:02,611 --> 00:02:03,728
-Then,
+00:02:56,123 --> 00:02:58,560
+And the temperature rises?
 
 46
-00:02:03,729 --> 00:02:07,721
-soil and oceans let go
-this heat to space.
+00:02:58,643 --> 00:03:04,280
+Like I told you, the atmosphere,
+it's gas, but it's the same.
 
 47
-00:02:08,182 --> 00:02:10,517
-But the atmosphere retains a part.
+00:03:04,363 --> 00:03:09,200
+If we increase the gases,
+the atmosphere becomes thicker,
 
 48
-00:02:10,939 --> 00:02:12,642
-Holding back this heat,
+00:03:09,283 --> 00:03:12,292
+and so the greenhouse effect increases.
 
 49
-00:02:12,643 --> 00:02:15,182
-the atmosphere acts as a sphere.
+00:03:12,667 --> 00:03:17,250
+But who would benefit from
+sending more gas into the atmosphere?
 
 50
-00:02:15,447 --> 00:02:17,283
-Like when you want to grow
-of vegetables,
+00:03:17,750 --> 00:03:19,583
+Maybe I have an idea.
 
 51
-00:02:17,291 --> 00:02:19,103
-and don’t get cold.
-
-52
-00:02:19,104 --> 00:02:21,104
-Ah but that’s what we call
-the greenhouse effect!
-
-53
-00:02:21,105 --> 00:02:22,144
-There you go!
-
-54
-00:02:22,145 --> 00:02:25,363
-A natural and mandatory effect
-for life.
-
-55
-00:02:25,800 --> 00:02:28,199
-Otherwise we’d be, ha!
-
-56
-00:02:28,200 --> 00:02:29,910
-Well, your feet are holding!
-
-57
-00:02:30,042 --> 00:02:32,683
-Huh huh, it all looks like
-to function well.
-
-58
-00:02:32,793 --> 00:02:34,480
-Better than on the moon.
-
-59
-00:02:34,481 --> 00:02:37,441
-Basically, it’s like a big air conditioner
-to regulate the temperature.
-
-60
-00:02:37,824 --> 00:02:39,277
-Well, what’s the problem?
-
-61
-00:02:41,503 --> 00:02:44,261
-Butter? ls that for sandwiches?
-Great idea!
-
-62
-00:02:44,262 --> 00:02:46,066
-No, look at that!
-
-63
-00:02:46,394 --> 00:02:48,113
-I put both in the sun:
-
-64
-00:02:48,114 --> 00:02:49,550
-but above one,
-
-65
-00:02:49,551 --> 00:02:51,355
-I put a glass bowl.
-
-66
-00:02:51,542 --> 00:02:54,839
-It’s like I’m increasing
-the thickness of the atmosphere.
-
-67
-00:02:55,089 --> 00:02:57,495
-Hun hun, and the temperature is rising.
-
-68
-00:02:57,746 --> 00:02:59,010
-Just like I told you.
-
-69
-00:02:59,011 --> 00:03:00,351
-The atmosphere
-
-70
-00:03:00,352 --> 00:03:01,406
-they are gases
-
-71
-00:03:01,407 --> 00:03:02,750
-but it’s the same.
-
-72
-00:03:03,538 --> 00:03:05,468
-If we increase the gas,
-
-73
-00:03:05,491 --> 00:03:07,147
-the atmosphere becomes
-
-74
-00:03:07,148 --> 00:03:08,484
-thicker!
-
-75
-00:03:08,688 --> 00:03:09,976
-And so the greenhouse effect
-
-76
-00:03:09,977 --> 00:03:11,164
-increase!
-
-77
-00:03:11,711 --> 00:03:15,898
-But who would be interested
-in sending more gas into the atmosphere?
-
-78
-00:03:16,242 --> 00:03:18,773
-Um, maybe I have an idea.
-
-79
-00:03:18,774 --> 00:03:20,133
-So quick, to the cannon!
-
-80
-00:03:20,850 --> 00:03:21,850
-Subtitles : Robi Waquet
+00:03:19,920 --> 00:03:21,040
+Okay, quick, to the cannon.
 

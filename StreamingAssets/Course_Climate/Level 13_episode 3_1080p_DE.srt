@@ -1,337 +1,100 @@
-1
-00:00:05,688 --> 00:00:06,797
-Ja, der Erste!
+﻿1
+00:00:05,590 --> 00:00:06,660
+Ja, ich bin der Erste.
 
 2
-00:00:06,798 --> 00:00:07,977
-Nein, nein.
+00:00:06,760 --> 00:00:11,520
+Nein, nein. Ach, das kann doch nicht wahr sein. Also warum sind wir hier?
 
 3
-00:00:07,978 --> 00:00:09,469
-Aber du bist zu schnell!
+00:00:11,650 --> 00:00:14,940
+Um die Quelle der Treibhausgase zu finden.
 
 4
-00:00:09,914 --> 00:00:11,617
-Und warum sind wir hier?
+00:00:14,940 --> 00:00:18,800
+Ach ja. Meinst du, wir finden hier welche?
 
 5
-00:00:11,960 --> 00:00:13,562
-Um die Quelle zu finden
+00:00:19,810 --> 00:00:23,360
+Tatsächlich könnte das gut sein. Okay.
 
 6
-00:00:13,563 --> 00:00:15,242
-Treibhausgase zu finden.
+00:00:23,500 --> 00:00:25,820
+Also ich habe die erste Quelle gefunden.
 
 7
-00:00:15,530 --> 00:00:18,195
-Ah ja, weil Sie denken, dass wir hier
-finden wir einige...
+00:00:27,850 --> 00:01:03,860
+Das Auto. Eine Möglichkeit wäre, öfter Fahrrad zu fahren oder öffentliche Verkehrsmittel zu nutzen. Was du wissen musst, ist, dass Kohlenstoff Teil eines natürlichen Kreislaufes ist. Es tritt in die Atmosphäre ein und verlässt sie ständig. Die Ozeane zum Beispiel. Sie sind große Kohlenstoffspeicher. Die Wälder auch genauso wie der Boden. Und alle setzen natürlich Kohlenstoff in die Atmosphäre frei.
 
 8
-00:00:19,141 --> 00:00:20,211
-Ahh, kof, kof, kof!
+00:01:03,860 --> 00:01:06,830
+Aber ernsthaft? Sie sind trotzdem große Verschmutzer.
 
 9
-00:00:20,422 --> 00:00:21,664
-In der Tat,
+00:01:06,830 --> 00:01:24,900
+Nein, denn die Natur ist perfekt. Die Ozeane, Wälder und der Boden speichern auch Kohlenstoff. Und am Ende gleicht sich das aus. Es ist ein Kreislauf. Das sorgt dafür, dass immer ein bisschen Treibhausgas in der Atmosphäre bleibt. Denn erinnere dich: Wir brauchen es.
 
 10
-00:00:21,938 --> 00:00:22,938
-das könnte es sein!
+00:01:25,630 --> 00:01:33,350
+Und schwupp, darf ich vorstellen: Meine neue Fabrik zur Herstellung von supermodernen, top angesagten, extremen high-tech Produkten.
 
 11
-00:00:23,133 --> 00:00:24,133
-Kof!
+00:01:34,940 --> 00:01:39,850
+Aber nein, deine Fabrik braucht Energie, also verbrennt sie sicherlich Öl.
 
 12
-00:00:24,134 --> 00:00:25,375
-Okay!
+00:01:39,960 --> 00:01:43,260
+Ja, aber wie ich dir sagte, sie stellt so tolle Sachen her.
 
 13
-00:00:25,376 --> 00:00:27,251
-Nun, ich habe die erste Quelle gefunden:
+00:01:43,720 --> 00:01:59,640
+Na ja, ich bin ich Ich bin sicher, dass wir das brauchen. Ich werde sicher nichts davon kaufen. Ich habe eine Idee. Man sagt, dass Bäume Kohlenstoffspeicher sind. Das heißt, sie können Kohlenstoff aufnehmen. Wenn ich also Bäume anpflanze, gleicht es sich wieder aus.
 
 14
-00:00:27,813 --> 00:00:29,000
-Das Auto.
+00:02:00,580 --> 00:02:13,030
+Warum machst du das? Die Arbeiter meiner Fabrik sind hungrig. Ich brauche Platz, Getreide anzubauen und ich halte auch Rinder für Fleisch.
 
 15
-00:00:29,227 --> 00:00:30,586
-Eine Lösung
+00:02:14,150 --> 00:02:23,480
+Aber jetzt stimmt das Gleichgewicht überhaupt nicht mehr. Die Bäume, die du gefällt hast, absorbieren keinen Kohlenstoff mehr. Und wenn sie sterben, setzen sie sogar welches frei.
 
 16
-00:00:30,727 --> 00:00:33,023
-wäre, mehr mit dem Fahrrad zu fahren
+00:02:23,480 --> 00:02:27,130
+Oh, und schau dir die Ochsen an, sie haben Blähungen.
 
 17
-00:00:33,024 --> 00:00:34,781
-oder mehr öffentliche Verkehrsmittel zu benutzen.
+00:02:27,330 --> 00:02:36,660
+Das Vieh setzt Methan frei. Ein weiteres Treibhausgas. Sieh her, damit ist das Gleichgewicht gestört.
 
 18
-00:00:38,039 --> 00:00:39,719
-Was Sie wissen müssen,
+00:02:40,240 --> 00:02:42,770
+Die Verpackungen.
 
 19
-00:00:39,945 --> 00:00:41,172
-ist, dass der Kohlenstoff,
+00:02:43,200 --> 00:02:50,930
+Ja, es werden viel Energie und Ressourcen benötigt, Verpackungen herzustellen. Das hat natürlich eine Kohlenstoffauswirkung.
 
 20
-00:00:41,173 --> 00:00:43,461
-auch ein natürlicher Kreislauf ist.
+00:02:51,320 --> 00:02:58,650
+Also sollten wir möglichst verpackungsfreie Produkte wählen. Oh, schau, französischer Käse.
 
 21
-00:00:43,844 --> 00:00:47,703
-es tritt in die Atmosphäre ein,
-verlässt dann die Atmosphäre
+00:02:58,980 --> 00:03:09,500
+Warte, hast du ihn getestet? Wir sind in den USA, aber dieser Käse kommt aus Frankreich. Er hat tausende von Kilometern zurückgelegt, genau wie wir.
 
 22
-00:00:47,704 --> 00:00:48,984
-die ganze Zeit über.
+00:03:09,500 --> 00:03:11,870
+Nein, aber er könnte per Anhalter gekommen sein.
 
 23
-00:00:49,453 --> 00:00:51,007
-Die Ozeane zum Beispiel,
+00:03:12,620 --> 00:03:17,340
+Eher mit dem Flugzeug oder einem großen Schiff. Sehr umweltschädlich für Verkehrsmittel.
 
 24
-00:00:51,390 --> 00:00:53,648
-das sind große Kohlenstoffumkehrer,
+00:03:17,860 --> 00:03:21,280
+Also sollte man Produkte essen, die aus der Nähe kommen?
 
 25
-00:00:53,797 --> 00:00:55,250
-auch Wälder,
-
-26
-00:00:55,273 --> 00:00:56,500
-genau wie der Boden.
-
-27
-00:00:56,859 --> 00:01:00,297
-Und sie alle setzen auf natürliche Weise Kohlenstoff frei
-
-28
-00:01:00,298 --> 00:01:01,906
-atmosphärisch.
-
-29
-00:01:01,907 --> 00:01:02,973
-Ah, aber ernsthaft?
-
-30
-00:01:02,974 --> 00:01:04,820
-Aber sie sind große Umweltverschmutzer
-und trotzdem!
-
-31
-00:01:04,821 --> 00:01:07,337
-Nein, denn die Natur ist gut gemacht.
-
-32
-00:01:07,836 --> 00:01:10,274
-Meere, Wälder und der Boden,
-
-33
-00:01:10,275 --> 00:01:12,306
-binden ebenfalls Kohlenstoff,
-
-34
-00:01:12,307 --> 00:01:14,642
-und am Ende gleicht sich das aus.
-
-35
-00:01:14,642 --> 00:01:16,040
-Genau so ist es!
-
-36
-00:01:16,407 --> 00:01:20,064
-Es gibt immer ein bisschen
-Treibhausgase in der Atmosphäre.
-
-37
-00:01:20,372 --> 00:01:21,614
-Erinnere dich,
-
-38
-00:01:21,778 --> 00:01:22,942
-wir brauchen es!
-
-39
-00:01:23,606 --> 00:01:24,794
-Hey, hüpf drauf!
-
-40
-00:01:24,795 --> 00:01:26,356
-Triff meine neue Fabrik
-
-41
-00:01:26,357 --> 00:01:28,239
-zu moderne Objekte zu machen
-
-42
-00:01:28,240 --> 00:01:29,849
-top-aktuell, hyper-hightech.
-
-43
-00:01:30,427 --> 00:01:32,606
-Und jetzt ist es immer noch im Gleichgewicht?
-
-44
-00:01:32,810 --> 00:01:37,575
-Aber nein, dein Kraftwerk braucht Strom,
-also verbrennt es wahrscheinlich Öl!
-
-45
-00:01:37,942 --> 00:01:39,567
-Ja, aber wie ich schon sagte,
-
-46
-00:01:39,833 --> 00:01:41,637
-Sie macht die Dinge zu gut.
-
-47
-00:01:41,801 --> 00:01:44,191
-Ja, ich bin mir nicht sicher, ob wir das brauchen.
-
-48
-00:01:44,201 --> 00:01:45,856
-Verlassen Sie sich nicht darauf, dass ich sie kaufe!
-
-49
-00:01:47,091 --> 00:01:48,427
-Ich habe eine Idee!
-
-50
-00:01:48,567 --> 00:01:50,833
-Man sagt, dass Bäume
-Kohlenstoffsenken sind,
-
-51
-00:01:50,834 --> 00:01:53,161
-das heißt, sie können
-mehr speichern.
-
-52
-00:01:53,162 --> 00:01:55,709
-Wenn ich also Bäume hinzufüge:
-
-53
-00:01:55,710 --> 00:01:57,927
-Hoppla, das gleicht sich aus!
-
-54
-00:02:01,224 --> 00:02:03,396
-Warum machst du das?
-
-55
-00:02:03,739 --> 00:02:06,028
-Die Arbeiter in meiner Fabrik sind hungrig!
-
-56
-00:02:06,239 --> 00:02:09,685
-Ich brauche Platz
-um Getreide anzubauen!
-
-57
-00:02:10,083 --> 00:02:12,122
-Und ich will auch Rindfleisch für Fleisch.
-
-58
-00:02:12,123 --> 00:02:15,396
-Also, das gleicht sich überhaupt nicht aus!
-
-59
-00:02:15,404 --> 00:02:18,489
-Die Bäume, die du fällst
-nehmen keinen Kohlenstoff mehr auf,
-
-60
-00:02:18,669 --> 00:02:21,396
-und außerdem, wenn sie sterben,
-lassen sie sie gehen!
-
-61
-00:02:21,614 --> 00:02:25,293
-oh und schaut euch die Ochsen an, die haben Benzin!
-
-62
-00:02:25,606 --> 00:02:27,692
-Die Rinder stoßen Methan aus,
-
-63
-00:02:28,090 --> 00:02:30,043
-ein weiteres Treibhausgas.
-
-64
-00:02:30,871 --> 00:02:34,809
-Mit all dem ist das Gleichgewicht gestört.
-
-65
-00:02:37,496 --> 00:02:40,051
-Mhhh, die Pakete.
-
-66
-00:02:40,293 --> 00:02:41,293
-Und ja!
-
-67
-00:02:41,590 --> 00:02:45,153
-Es braucht viel Energie und
-Ressourcen für die Herstellung von Verpackungen
-
-68
-00:02:45,154 --> 00:02:48,621
-Das muss Auswirkungen auf den Kohlenstoffgehalt haben.
-
-69
-00:02:48,778 --> 00:02:51,598
-Man muss also so viel wie möglich wählen
-Dinge ohne Verpackung wählen.
-
-70
-00:02:54,285 --> 00:02:56,028
-Oh, schau mal! Französischer Käse!
-
-71
-00:02:56,029 --> 00:02:58,231
-Warte, du hast ihn getestet?
-
-72
-00:03:00,309 --> 00:03:03,848
-Dies sind die Vereinigten Staaten,
-aber dieser Käse kommt aus Frankreich!
-
-73
-00:03:04,035 --> 00:03:06,614
-Wie wir,
-ist er Tausende von Meilen gereist!
-
-74
-00:03:06,817 --> 00:03:09,754
-Nein, aber vielleicht ist er per Anhalter gereist.
-
-75
-00:03:09,984 --> 00:03:13,125
-Eher ein Flugzeug, oder ein großes Boot!
-
-76
-00:03:13,328 --> 00:03:15,203
-Sehr umweltschädliche Transportmittel!
-
-77
-00:03:15,382 --> 00:03:19,132
-Oh, man muss also Produkte essen
-die aus der Nähe von zu Hause kommen?
-
-78
-00:03:19,179 --> 00:03:20,710
-Ja! Wir müssen schnell nach Frankreich zurückkehren
-
-79
-00:03:20,711 --> 00:03:23,062
-den anderen alles erzählen
-was wir gerade entdeckt haben!
-
-80
-00:03:24,063 --> 00:03:25,070
-Untertitel: Robi Waquet
-
+00:03:21,990 --> 00:03:25,540
+Wir müssen schnell zurück nach Frankreich, um den anderen alles zu erzählen, was wir entdeckt haben.
 

@@ -1,443 +1,273 @@
-1
-00:00:00,382 --> 00:00:05,616
-Weit wandernde Tierarten
+﻿1
+00:00:00,640 --> 00:00:10,400
+Oh, oh, oh.
 
 2
-00:00:07,109 --> 00:00:11,172
-Oh! Autsch! Autsch! Autsch!
+00:00:10,483 --> 00:00:13,040
+Die Landung ist komplizierter.
 
 3
-00:00:11,173 --> 00:00:13,359
-Die Landung ist eher... kompliziert.
+00:00:13,123 --> 00:00:15,480
+Hier beginnt unsere Untersuchung.
 
 4
-00:00:13,360 --> 00:00:15,547
-Hier beginnt unsere Untersuchung!
+00:00:15,563 --> 00:00:18,440
+Schau mal.
 
 5
-00:00:16,563 --> 00:00:17,969
-Seht euch das an!
+00:00:19,292 --> 00:00:21,960
+Ein unbewohnter Baum.
 
 6
-00:00:18,282 --> 00:00:19,821
-Ein... Baum?
+00:00:22,043 --> 00:00:26,600
+Alle seine Bewohner sind verschwunden.
 
 7
-00:00:20,000 --> 00:00:21,530
-Ein leerer Baum!
+00:00:26,683 --> 00:00:29,042
+Aber nein, sie müssen zu Hause sein.
 
 8
-00:00:22,422 --> 00:00:24,023
-Alle seine Bewohner sind...
+00:00:29,920 --> 00:00:32,792
+Ist da jemand?
 
 9
-00:00:24,024 --> 00:00:25,376
-verschwunden.
-
-10
-00:00:26,844 --> 00:00:27,993
-Nein !
-
-11
-00:00:27,994 --> 00:00:29,258
-Sie müssen, äh...
-
-12
-00:00:29,259 --> 00:00:30,259
-zu Hause sein!
-
-13
-00:00:33,360 --> 00:00:35,055
-Ist jemand da?
-
-14
-00:00:35,056 --> 00:00:36,329
-Hey ho!
-
-15
-00:00:38,453 --> 00:00:39,719
+00:00:33,292 --> 00:00:34,520
 Hallo?
 
-16
-00:00:40,080 --> 00:00:41,860
-Juhu!
+10
+00:00:34,603 --> 00:00:37,600
+Hallo?
 
-17
-00:00:41,861 --> 00:00:42,861
-Ja?
+11
+00:00:37,683 --> 00:00:39,480
+Ja.
 
-18
-00:00:42,862 --> 00:00:43,862
-Wer ist da?
+12
+00:00:39,563 --> 00:00:40,720
+Siehst du?
 
-19
-00:00:43,863 --> 00:00:44,863
-Sie wissen es?
-
-20
-00:00:44,864 --> 00:00:46,465
+13
+00:00:40,803 --> 00:00:42,960
 Was habe ich dir gesagt?
 
+14
+00:00:43,080 --> 00:00:45,440
+Guten Tag, entschuldigen Sie.
+
+15
+00:00:45,523 --> 00:00:48,680
+Aber wo sind alle anderen hin?
+
+16
+00:00:48,763 --> 00:00:51,680
+Es gibt nur noch mich, fürchte ich.
+
+17
+00:00:51,763 --> 00:00:53,480
+Wie kann das sein?
+
+18
+00:00:53,563 --> 00:00:57,917
+All diese leeren Häuser,
+das ist wirklich unheimlich.
+
+19
+00:00:58,000 --> 00:01:03,560
+Wissen Sie, Babys Sie werden immer zur
+gleichen Zeit geboren, im
+
+20
+00:01:03,643 --> 00:01:06,480
+Frühling, mit all diesen Geburten.
+
 21
-00:00:46,938 --> 00:00:47,938
-Hallo.
+00:01:06,563 --> 00:01:11,200
+Genau dann, wenn die Vögel
+am meisten Nahrung brauchen.
 
 22
-00:00:47,939 --> 00:00:49,422
-Entschuldigen Sie bitte, aber,
+00:01:11,283 --> 00:01:14,320
+Raupen?
+Genau.
 
 23
-00:00:49,423 --> 00:00:51,251
-was ist mit den anderen passiert?
+00:01:14,403 --> 00:01:20,080
+Bis Jetzt fiel die Raupezeit
+mit der Geburtszeit zusammen.
 
 24
-00:00:51,532 --> 00:00:53,665
-Ha, ich befürchte,
+00:01:20,163 --> 00:01:25,840
+Aber das Klima ändert sich, wird milder,
+die Raupezeit hat sich
 
 25
-00:00:53,797 --> 00:00:55,422
-nur ich bin hier.
+00:01:25,923 --> 00:01:27,375
+um eine Woche verschoben.
 
 26
-00:00:55,672 --> 00:00:57,641
-Aber wie ist das möglich?
+00:01:27,875 --> 00:01:32,400
+Das führt zu einem
+Nahrungsmangel für die Vögel.
 
 27
-00:00:57,899 --> 00:00:59,188
-All diese leeren Häuser,
+00:01:32,483 --> 00:01:34,837
+Also wirklich, diese Raupen übertreiben.
 
 28
-00:00:59,189 --> 00:01:00,189
-da...
+00:01:34,920 --> 00:01:38,120
+Alles zu ändern, nur weil sie das Wetter
+so oder so bevorzugen, das geht nicht.
 
 29
-00:01:00,190 --> 00:01:01,305
-da bekommt man eine Gänsehaut.
-
-30
-00:01:01,993 --> 00:01:03,055
-Du weißt schon,
-
-31
-00:01:03,064 --> 00:01:05,727
-Babys werden immer 
-zur gleichen Zeit geboren:
-
-32
-00:01:05,968 --> 00:01:07,742
-Im Frühling!
-
-33
-00:01:07,759 --> 00:01:09,719
-Dies ist der Moment,
-
-34
-00:01:09,720 --> 00:01:14,422
-in dem die Vögel am 
-meisten Nahrung brauchen.
-
-35
-00:01:14,423 --> 00:01:15,719
-Raupen?
-
-36
-00:01:15,720 --> 00:01:17,282
-Ganz genau!
-
-37
-00:01:17,283 --> 00:01:20,063
-Bis jetzt hat die Raupenzeit
-
-38
-00:01:20,064 --> 00:01:23,571
-immer der Geburtsperiode entsprochen.
-
-39
-00:01:23,922 --> 00:01:25,085
-Aber
-
-40
-00:01:25,086 --> 00:01:26,868
-das Klima ändert sich!
-
-41
-00:01:27,032 --> 00:01:28,834
-Seitdem es milder wird,
-
-42
-00:01:28,835 --> 00:01:32,069
-hat sich die Raupenzeit 
-um eine Woche verschoben!
-
-43
-00:01:32,070 --> 00:01:34,945
-Dies führt zu einem Mangel an Nahrung
-
-44
-00:01:34,946 --> 00:01:36,414
-für die Vögel!
-
-45
-00:01:36,415 --> 00:01:37,963
-Nein, aber sie missbrauchen die Raupen!
-
-46
-00:01:37,964 --> 00:01:39,696
-Alle Gewohnheiten ändern, weil sie
-ein Wetter bevorzugen
-
-47
-00:01:39,697 --> 00:01:41,025
-wie dieses,
-oder ein Wetter wie dieses!
-
-48
-00:01:41,026 --> 00:01:42,026
-Das kannst du nicht machen!
-
-49
-00:01:42,027 --> 00:01:43,432
+00:01:38,203 --> 00:01:39,760
 Du hast nicht zugehört.
 
-50
-00:01:43,433 --> 00:01:45,643
-Das Wetter ist etwas anderes!
+30
+00:01:39,843 --> 00:01:41,680
+Das Wetter ist etwas anderes.
 
-51
-00:01:45,644 --> 00:01:47,487
-Das ist etwas, 
-das sich sehr schnell ändert!
+31
+00:01:41,763 --> 00:01:43,720
+Es ändert sich sehr schnell.
 
-52
-00:01:47,706 --> 00:01:48,917
-Eines Tages regnet es,
+32
+00:01:43,803 --> 00:01:45,280
+An einem Tag regnet es.
 
-53
-00:01:49,674 --> 00:01:51,284
-An einem Tag ist es trocken!
+33
+00:01:45,363 --> 00:01:48,360
+An einem anderen Tag scheint die Sonne.
 
-54
-00:01:52,807 --> 00:01:53,893
-Ein Tag, an dem es regnet,
+34
+00:01:48,720 --> 00:01:51,080
+An einem Tag regnet es.
+Ja, okay.
 
-55
-00:01:53,909 --> 00:01:55,080
-Ja, ist Okay!
+35
+00:01:51,163 --> 00:01:54,240
+Er sagte Klima, nicht Wetter.
 
-56
-00:01:55,407 --> 00:01:57,282
-Er hat Klima gesagt, nicht Wetter!
+36
+00:01:54,323 --> 00:02:00,240
+Die Veränderung des Klimas dauert im
+Gegensatz dazu Jahre, sogar Jahrhunderte.
 
-57
-00:01:58,587 --> 00:01:59,587
-Umgekehrt,
+37
+00:02:00,600 --> 00:02:03,840
+Auf unserem Planeten gibt
+es verschiedene Klimazonen.
 
-58
-00:01:59,588 --> 00:02:02,306
-ist das Klima etwas
-das über Jahre anhält,
-
-59
-00:02:02,307 --> 00:02:04,040
-Hunderte von Jahren!
-
-60
-00:02:04,346 --> 00:02:05,697
-Auf unserem Planeten,
-
-61
-00:02:05,698 --> 00:02:07,588
-gibt es mehrere 
-verschiedene Klimazonen.
-
-62
-00:02:07,596 --> 00:02:10,126
-Ja, das ist wahr:
+38
+00:02:03,923 --> 00:02:05,800
+Stimmt.
 Warum ist es nicht überall gleich?
 
+39
+00:02:05,883 --> 00:02:09,280
+Es gibt mehrere Gründe.
+
+40
+00:02:09,363 --> 00:02:12,517
+Der erste ist, weil unsere Erde rund ist.
+
+41
+00:02:12,600 --> 00:02:15,280
+Deswegen erreichen die Sonnenstrahlen
+unsere Erde nicht überall
+
+42
+00:02:15,363 --> 00:02:17,560
+auf die gleiche Weise.
+
+43
+00:02:17,643 --> 00:02:19,917
+Nehmen wir den Äquator.
+
+44
+00:02:20,000 --> 00:02:23,200
+Das ist der Ort, der der
+Sonne am nächsten ist.
+
+45
+00:02:23,283 --> 00:02:25,600
+Und die Strahlen sind gebündelt.
+
+46
+00:02:25,683 --> 00:02:29,840
+Viel Regen und das ganze
+Jahr über sehr warm.
+
+47
+00:02:29,923 --> 00:02:35,600
+Wenn wir jedoch ein wenig weiter nach
+oben gehen, haben wir ein trockenes Klima.
+
+48
+00:02:35,683 --> 00:02:39,360
+Fast nie Regen, aber noch sehr heiß.
+
+49
+00:02:39,443 --> 00:02:40,800
+Oh, was ist los?
+
+50
+00:02:40,883 --> 00:02:42,800
+Ich habe Durst.
+
+51
+00:02:42,883 --> 00:02:46,320
+Und ganz oben: Das Polarklima.
+
+52
+00:02:46,403 --> 00:02:50,560
+Hier breiten sich die Strahlen
+aus und werden schwächer.
+
+53
+00:02:50,643 --> 00:02:52,480
+Es kann wirklich kalt sein.
+
+54
+00:02:52,563 --> 00:02:57,560
+Besonders, weil dies die Orte sind, die
+am weitesten von der Sonne entfernt sind.
+
+55
+00:02:57,643 --> 00:03:01,480
+Okay, es gibt verschiedene Klimazonen,
+Aber das erklärt noch nicht, warum
+
+56
+00:03:01,563 --> 00:03:02,920
+sich das Klima gerade ändert.
+
+57
+00:03:03,003 --> 00:03:05,680
+Nein, das ist wirklich so.
+
+58
+00:03:05,763 --> 00:03:08,120
+Vielleicht verändert
+etwas die Sonnenstrahlen.
+
+59
+00:03:08,203 --> 00:03:10,360
+Aber wer hätte die Macht, so etwas zu tun?
+
+60
+00:03:10,443 --> 00:03:16,280
+Ich will mich nicht in Dinge einmischen,
+die mich nichts angehen, aber die Atmosphäre
+
+61
+00:03:16,363 --> 00:03:19,240
+kann die Sonnenstrahlen beeinflussen.
+
+62
+00:03:19,323 --> 00:03:20,840
+Stimmt.
+
 63
-00:02:11,097 --> 00:02:12,659
-Es gibt mehrere Gründe,
+00:03:20,923 --> 00:03:22,560
+Schnell, zu den Kanonen.
 
-64
-00:02:12,980 --> 00:02:15,909
-Der erste ist, dass unsere
-Erde rund ist.
-
-65
-00:02:16,119 --> 00:02:17,119
-Daraus folgt,
-
-66
-00:02:17,120 --> 00:02:18,525
-dass die Strahlen der Sonne,
-
-67
-00:02:18,526 --> 00:02:19,651
-nicht überall
-
-68
-00:02:19,652 --> 00:02:20,894
-gleichmäßig verteilt sind.
-
-69
-00:02:21,480 --> 00:02:23,073
-Nehmen wir
-
-70
-00:02:23,503 --> 00:02:24,503
-den Äquator.
-
-71
-00:02:24,504 --> 00:02:26,917
-Schau, das ist der Ort, 
-der der Sonne am nächsten ist.
-
-72
-00:02:27,206 --> 00:02:29,120
-Und die Strahlen sind konzentriert.
-
-73
-00:02:29,651 --> 00:02:31,651
-Hier ist das Klima,
-
-74
-00:02:32,042 --> 00:02:33,385
-Äquatorial?
-
-75
-00:02:33,386 --> 00:02:34,550
-Genau das ist es!
-
-76
-00:02:34,551 --> 00:02:37,347
-Eine Menge Regen, 
-sehr heiße Temperaturen,
-
-77
-00:02:37,348 --> 00:02:38,558
-das ganze Jahr hindurch!
-
-78
-00:02:38,666 --> 00:02:40,932
-Andererseits, wenn wir 
-ein bisschen höher gehen,
-
-79
-00:02:41,064 --> 00:02:42,986
-haben wir ein trockenes Klima.
-
-80
-00:02:43,338 --> 00:02:44,893
-Es regnet fast nie,
-
-81
-00:02:45,275 --> 00:02:47,033
-aber trotzdem ist es sehr heiß.
-
-82
-00:02:47,143 --> 00:02:49,095
-Was zum Teufel ist hier los?
-Ich bin... Ich bin...
-
-83
-00:02:49,096 --> 00:02:50,456
-durstig!
-
-84
-00:02:50,604 --> 00:02:51,643
-Und ganz oben:
-
-85
-00:02:51,644 --> 00:02:53,361
-Das polare Klima.
-
-86
-00:02:53,432 --> 00:02:54,432
-Hier
-
-87
-00:02:54,433 --> 00:02:55,885
-breiten sich die Strahlen aus
-
-88
-00:02:55,886 --> 00:02:57,526
-und sind weniger stark.
-
-89
-00:02:57,799 --> 00:03:00,213
-Es kann also richtig kalt werden.
-
-90
-00:03:00,346 --> 00:03:02,931
-Besonders, da dies die Orte sind
-die am weitesten von der Sonne
-
-91
-00:03:02,932 --> 00:03:04,409
-entfernt sind.
-
-92
-00:03:04,831 --> 00:03:07,909
-Können wir zu einem kontinentalen 
-Klima zurückkehren?
-
-93
-00:03:09,268 --> 00:03:12,135
-Oh, danke schön! 
-Okay, es gibt mehrere Klimazonen.
-
-94
-00:03:12,237 --> 00:03:14,119
-Aber das erklärt nicht
-
-95
-00:03:14,120 --> 00:03:15,658
-warum sie sich verändern.
-
-96
-00:03:15,659 --> 00:03:17,018
-Nein, das ist wahr!
-
-97
-00:03:17,120 --> 00:03:20,487
-Vielleicht verändert etwas
-die Sonnenstrahlen.
-
-98
-00:03:20,495 --> 00:03:23,206
-Hm, aber wer würde die Macht haben, 
-das zu ändern?
-
-99
-00:03:23,456 --> 00:03:24,721
-Ich möchte mich nicht einmischen,
-
-100
-00:03:24,722 --> 00:03:26,346
-in etwas, das mich nichts angeht,
-
-101
-00:03:26,578 --> 00:03:29,766
-aber die Atmosphäre kann 
-
-102
-00:03:29,767 --> 00:03:32,141
-die Strahlen der Sonne beeinflussen.
-
-103
-00:03:32,625 --> 00:03:33,758
-Nicht schlecht!
-
-104
-00:03:33,759 --> 00:03:35,266
-Beeilt euch!
-Ab zur Kanone!
-
-105
-00:03:36,359 --> 00:03:40,266
-Hochgradig wandernde Arten
-
-106
-00:03:41,226 --> 00:03:42,726
-Untertitel: Marius Wohlfahrtstätter

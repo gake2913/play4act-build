@@ -1,19 +1,171 @@
-2
-00:00:00,000 --> 00:00:00,498
-Test subtitles for english,
-The subtitles are working.
+﻿1
+00:00:03,833 --> 00:00:07,390
+Here we are, back in Germany.
 
 2
-00:00:00,498 --> 00:00:02,827
-- Here's what I love most
-about food and diet.
+00:00:07,560 --> 00:00:11,560
+My favourite room.
 
 3
-00:00:02,827 --> 00:00:06,383
-We all eat several times a day,
-and we're totally in charge
+00:00:12,583 --> 00:00:17,667
+You see, Mori, progress, modernity,
+what differentiates us from the caveman?
 
 4
-00:00:06,383 --> 00:00:09,427
-of what goes on our plate
-and what stays off.
+00:00:17,833 --> 00:00:20,400
+That's it.
+
+5
+00:00:22,360 --> 00:00:27,917
+What if we turned off the TV
+to reduce electricity?
+
+6
+00:00:31,917 --> 00:00:33,950
+Oh, no.
+
+7
+00:00:34,120 --> 00:00:36,333
+Don't take away the TV.
+
+8
+00:00:39,440 --> 00:00:41,110
+Oh, you saw.
+
+9
+00:00:41,280 --> 00:00:42,917
+It had a positive impact.
+
+10
+00:00:43,083 --> 00:00:46,430
+Great.
+Here we go for a world without TV.
+
+11
+00:00:46,600 --> 00:00:49,833
+Your world is going to be great, Maury.
+
+12
+00:00:50,000 --> 00:00:54,583
+Because you didn't like the
+board game night we had in Iceland.
+
+13
+00:00:54,750 --> 00:00:58,500
+Oh, yes.
+We had a lot of fun.
+
+14
+00:00:58,667 --> 00:01:03,360
+I'm not saying we should remove the TV,
+but not leaving it on when you're not
+
+15
+00:01:03,526 --> 00:01:08,270
+looking at it and reducing
+its use is already interesting.
+
+16
+00:01:08,440 --> 00:01:10,070
+Oh, I have another idea.
+
+17
+00:01:10,240 --> 00:01:16,470
+How about you wear a sweater?
+
+18
+00:01:16,640 --> 00:01:21,680
+What if we turn down the heating
+and we could take shorter showers
+
+19
+00:01:21,846 --> 00:01:24,250
+to use less hot water?
+
+20
+00:01:24,417 --> 00:01:25,910
+No, that's too much.
+
+21
+00:01:26,080 --> 00:01:27,630
+Welcome to the Middle Ages.
+
+22
+00:01:27,800 --> 00:01:29,790
+Your ideas make me depressed.
+
+23
+00:01:29,960 --> 00:01:31,960
+But are you cold?
+
+24
+00:01:32,520 --> 00:01:33,640
+No.
+
+25
+00:01:34,160 --> 00:01:35,870
+So what's the problem?
+
+26
+00:01:36,040 --> 00:01:38,160
+Well, the colour.
+
+27
+00:01:38,326 --> 00:01:40,800
+I don't like the colour of the sweater.
+
+28
+00:01:41,000 --> 00:01:43,167
+We can find you another one.
+
+29
+00:01:44,167 --> 00:01:47,670
+But It's true that it works.
+
+30
+00:01:47,840 --> 00:01:50,440
+Could we also instal better
+insulated windows to reduce
+
+31
+00:01:50,606 --> 00:01:52,840
+the energy need for heating?
+
+32
+00:01:57,500 --> 00:02:03,083
+We could also get around
+a lot more on a bike or on foot.
+
+33
+00:02:04,250 --> 00:02:05,390
+That's better.
+
+34
+00:02:05,560 --> 00:02:09,790
+Okay, it's becoming a world
+that makes you want to.
+
+35
+00:02:09,960 --> 00:02:13,714
+Basically, on the one hand, we
+must develop renewable energies and on
+
+36
+00:02:13,880 --> 00:02:15,790
+the other hand, reduce our consumption.
+
+37
+00:02:15,960 --> 00:02:19,230
+Without this, it will become depressing.
+Exactly.
+
+38
+00:02:19,400 --> 00:02:23,470
+For me, it's more a polluted world
+that makes me depressed.
+
+39
+00:02:23,640 --> 00:02:26,120
+Oh, I still have lots of ideas
+for reducing energy consumption.
+

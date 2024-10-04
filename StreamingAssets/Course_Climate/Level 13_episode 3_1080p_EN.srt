@@ -1,336 +1,243 @@
-1
-00:00:05,688 --> 00:00:06,797
-Yes, first!
-
-2
-00:00:06,798 --> 00:00:07,977
+﻿1
+00:00:05,440 --> 00:00:08,480
+Yes, I am the first.
 No, no.
 
+2
+00:00:08,563 --> 00:00:10,120
+Oh, this can't be true.
+
 3
-00:00:07,978 --> 00:00:09,469
-But you’re too fast!
+00:00:10,203 --> 00:00:11,600
+So why are we here?
 
 4
-00:00:09,914 --> 00:00:11,617
-Well, why are we here?
+00:00:11,683 --> 00:00:16,240
+To find the source of greenhouse gases.
+Oh, yeah.
 
 5
-00:00:11,960 --> 00:00:13,562
-To find the source
+00:00:16,323 --> 00:00:20,200
+Do you think we'll find any?
 
 6
-00:00:13,563 --> 00:00:15,242
-greenhouse gases.
+00:00:20,360 --> 00:00:22,520
+Actually, that could be it.
 
 7
-00:00:15,530 --> 00:00:18,195
-Ah yes, because you think that here
-we’re gonna find some...
+00:00:22,603 --> 00:00:23,960
+Okay.
 
 8
-00:00:19,141 --> 00:00:20,211
-Ahh, kof, kof, kof!
+00:00:24,480 --> 00:00:27,760
+So I found the first source.
 
 9
-00:00:20,422 --> 00:00:21,664
-Indeed,
-
-10
-00:00:21,938 --> 00:00:22,938
-this could be it!
-
-11
-00:00:23,133 --> 00:00:24,133
-Kof!
-
-12
-00:00:24,134 --> 00:00:25,375
-Okay,
-
-13
-00:00:25,376 --> 00:00:27,251
-well I found the first source:
-
-14
-00:00:27,813 --> 00:00:29,000
+00:00:27,843 --> 00:00:29,600
 The car.
 
+10
+00:00:29,683 --> 00:00:36,120
+One way could to ride a bike
+more often or use public transport.
+
+11
+00:00:40,040 --> 00:00:45,708
+What you need to know is carbon
+is also a natural cycle.
+
+12
+00:00:46,208 --> 00:00:51,280
+It enters and leaves the atmosphere
+constantly.
+
+13
+00:00:51,363 --> 00:00:57,760
+The oceans, for example, they are
+large carbon storages, forests as well
+
+14
+00:00:57,843 --> 00:01:00,520
+as the soil, and of course, Yes.
+
 15
-00:00:29,227 --> 00:00:30,586
-A solution
+00:01:00,603 --> 00:01:03,500
+Everyone releases carbon
+into the atmosphere.
 
 16
-00:00:30,727 --> 00:00:33,023
-would be to ride more the bike
+00:01:04,000 --> 00:01:06,440
+But seriously,
+there's still big pollutants.
 
 17
-00:00:33,024 --> 00:00:34,781
-or take more public transport.
+00:01:06,523 --> 00:01:09,080
+No, because nature is perfect.
 
 18
-00:00:38,039 --> 00:00:39,719
-What you need to know,
+00:01:09,163 --> 00:01:16,080
+The oceans, forests, and soil also store
+carbon, and in the end, it balances out.
 
 19
-00:00:39,945 --> 00:00:41,172
-is that the carbon,
+00:01:16,163 --> 00:01:17,840
+It's a cycle.
 
 20
-00:00:41,173 --> 00:00:43,461
-it’s also a natural cycle.
+00:01:17,923 --> 00:01:22,542
+That ensures there's always a bit
+of greenhouse gas in the atmosphere.
 
 21
-00:00:43,844 --> 00:00:47,703
-it enters the atmosphere,
-then leaves the atmosphere
+00:01:23,125 --> 00:01:25,125
+Remember, we need it.
 
 22
-00:00:47,704 --> 00:00:48,984
-all the time.
+00:01:25,320 --> 00:01:26,240
+And voila.
 
 23
-00:00:49,453 --> 00:00:51,007
-The oceans for example,
+00:01:26,323 --> 00:01:31,360
+Let me introduce my new factory
+for making super modern, ultra trendy,
 
 24
-00:00:51,390 --> 00:00:53,648
-these are big carbon reversers,
+00:01:31,443 --> 00:01:32,880
+extremely high tech products.
 
 25
-00:00:53,797 --> 00:00:55,250
-forests too,
+00:01:32,963 --> 00:01:34,625
+And how do we write that now?
 
 26
-00:00:55,273 --> 00:00:56,500
-just like the ground.
+00:01:35,125 --> 00:01:39,720
+But no, your factory needs energy,
+so it surely burns oil.
 
 27
-00:00:56,859 --> 00:01:00,297
-And they all naturally release carbon
+00:01:39,803 --> 00:01:43,720
+Yes, but like I told you,
+she makes such great stuff.
 
 28
-00:01:00,298 --> 00:01:01,906
-atmospheric.
+00:01:43,803 --> 00:01:46,320
+Well, I'm not sure We need that.
 
 29
-00:01:01,907 --> 00:01:02,973
-Ah but seriously?
+00:01:46,403 --> 00:01:48,360
+Don't count on me to buy them.
 
 30
-00:01:02,974 --> 00:01:04,820
-But they’re big polluters
-all the same!
+00:01:48,443 --> 00:01:50,208
+I have an idea.
 
 31
-00:01:04,821 --> 00:01:07,337
-No, because nature is well made.
+00:01:50,708 --> 00:01:55,960
+They say trees are carbon sinks,
+meaning they can store more.
 
 32
-00:01:07,836 --> 00:01:10,274
-Oceans, forests and ground,
+00:01:56,043 --> 00:02:00,080
+If I add trees, that balances out.
 
 33
-00:01:10,275 --> 00:01:12,306
-also capture carbon,
+00:02:00,163 --> 00:02:05,440
+But why are you doing that?
 
 34
-00:01:12,307 --> 00:01:14,642
-and in the end, it balances.
+00:02:05,523 --> 00:02:08,800
+The workers of my factory are hungry.
 
 35
-00:01:14,642 --> 00:01:16,040
-That’s the way it is!
+00:02:08,883 --> 00:02:13,792
+I need space to grow grain,
+and I also keep cattle for meat.
 
 36
-00:01:16,407 --> 00:01:20,064
-It always gives you a little
-greenhouse gases in the atmosphere.
+00:02:14,292 --> 00:02:17,400
+But now, the balance is totally off.
 
 37
-00:01:20,372 --> 00:01:21,614
-Remember,
+00:02:17,483 --> 00:02:21,000
+The trees you cut down
+no longer absorb carbon.
 
 38
-00:01:21,778 --> 00:01:22,942
-we need it!
+00:02:21,083 --> 00:02:23,375
+When they die, they even release some.
 
 39
-00:01:23,606 --> 00:01:24,794
-Hey, hop on it!
+00:02:23,958 --> 00:02:27,240
+Oh, and look at the oxen.
+They have flatulence.
 
 40
-00:01:24,795 --> 00:01:26,356
-Meet my new factory
-
-41
-00:01:26,357 --> 00:01:28,239
-to make too modern objects
-
-42
-00:01:28,240 --> 00:01:29,849
-top-trend, hyper high-tech.
-
-43
-00:01:30,427 --> 00:01:32,606
-And now it’s still balancing?
-
-44
-00:01:32,810 --> 00:01:37,575
-But no, your plant needs power,
-so it’s probably burning oil!
-
-45
-00:01:37,942 --> 00:01:39,567
-Yeah, but like I said,
-
-46
-00:01:39,833 --> 00:01:41,637
-She makes things too well.
-
-47
-00:01:41,801 --> 00:01:44,191
-Yeah, not sure we need it.
-
-48
-00:01:44,201 --> 00:01:45,856
-Don’t count on me to buy them!
-
-49
-00:01:47,091 --> 00:01:48,427
-I have an idea!
-
-50
-00:01:48,567 --> 00:01:50,833
-They say that trees are
-carbon sinks,
-
-51
-00:01:50,834 --> 00:01:53,161
-that is, they can
-store more.
-
-52
-00:01:53,162 --> 00:01:55,709
-So if I add trees:
-
-53
-00:01:55,710 --> 00:01:57,927
-Hop, it balances out!
-
-54
-00:02:01,224 --> 00:02:03,396
-Why are you doing this?
-
-55
-00:02:03,739 --> 00:02:06,028
-The workers in my factory are hungry!
-
-56
-00:02:06,239 --> 00:02:09,685
-I need space
-to grow cereal!
-
-57
-00:02:10,083 --> 00:02:12,122
-And I also want beef for meat.
-
-58
-00:02:12,123 --> 00:02:15,396
-Well, it doesn’t balance out at all!
-
-59
-00:02:15,404 --> 00:02:18,489
-The trees you cut
-no longer absorb carbon,
-
-60
-00:02:18,669 --> 00:02:21,396
-and besides, when they die,
-They let them go!
-
-61
-00:02:21,614 --> 00:02:25,293
-oh and look at the oxen, they have gas!
-
-62
-00:02:25,606 --> 00:02:27,692
-The cattle are releasing methane,
-
-63
-00:02:28,090 --> 00:02:30,043
+00:02:27,323 --> 00:02:33,360
+The livestock release methane,
 another greenhouse gas.
 
-64
-00:02:30,871 --> 00:02:34,809
-With all this, the balance is broken.
+41
+00:02:33,443 --> 00:02:38,167
+Look, that disturbs the balance.
 
-65
-00:02:37,496 --> 00:02:40,051
-Mhhh, the packages.
+42
+00:02:40,960 --> 00:02:43,920
+The packaging.
+Yes.
 
-66
-00:02:40,293 --> 00:02:41,293
-And yes!
+43
+00:02:44,003 --> 00:02:48,480
+A lot of energy and resources
+are needed to make packaging.
 
-67
-00:02:41,590 --> 00:02:45,153
-It takes a lot of energy and
-resources to manufacture packaging
+44
+00:02:48,563 --> 00:02:51,000
+This naturally has a carbon impact.
 
-68
-00:02:45,154 --> 00:02:48,621
-It must have a carbon impact.
+45
+00:02:51,083 --> 00:02:55,667
+So we should choose products
+with as little packaging as possible.
 
-69
-00:02:48,778 --> 00:02:51,598
-So you have to choose as much as possible
-things without packaging.
+46
+00:02:56,520 --> 00:02:59,400
+Oh, look, French cheese.
+Wait.
 
-70
-00:02:54,285 --> 00:02:56,028
-Oh look! French cheese!
+47
+00:02:59,483 --> 00:03:01,280
+Did you test it?
 
-71
-00:02:56,029 --> 00:02:58,231
-Wait, you tested it?
+48
+00:03:02,560 --> 00:03:05,920
+We're in the USA,
+but this cheese is from France.
 
-72
-00:03:00,309 --> 00:03:03,848
-This is the United States,
-but this cheese comes from France!
+49
+00:03:06,003 --> 00:03:09,360
+It has travelled thousands
+of kilometres, just like us.
 
-73
-00:03:04,035 --> 00:03:06,614
-Like us,
-He’s gone thousands of miles!
+50
+00:03:09,443 --> 00:03:12,160
+No, but he might have hitchhiked.
 
-74
-00:03:06,817 --> 00:03:09,754
-No, but maybe he hitched a ride.
+51
+00:03:12,667 --> 00:03:14,600
+More likely by plane or a big ship.
 
-75
-00:03:09,984 --> 00:03:13,125
-More like a plane, or a big boat!
+52
+00:03:14,683 --> 00:03:18,167
+Very environmentally harmful
+means of prompting.
 
-76
-00:03:13,328 --> 00:03:15,203
-Very polluting transports!
+53
+00:03:18,750 --> 00:03:21,720
+Should we eat products
+that come from nearby?
 
-77
-00:03:15,382 --> 00:03:19,132
-Oh, so you have to eat products
-coming from near home?
-
-78
-00:03:19,179 --> 00:03:20,710
-Yes! We must quickly return to France
-
-79
-00:03:20,711 --> 00:03:23,062
-tell others everything
-what we just discovered!
-
-80
-00:03:24,063 --> 00:03:25,070
-Subtitles: Robi Waquet
+54
+00:03:21,803 --> 00:03:25,400
+We need to hurry back to France to tell
+the others everything we've discovered.
 

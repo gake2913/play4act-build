@@ -1,19 +1,147 @@
-2
-00:00:00,000 --> 00:00:00,498
-Test Untertitel für Deutsch,
-Die Untertitel funktionieren.
+﻿1
+00:00:03,760 --> 00:00:06,560
+Wir sind in Deutschland angekommen.
+Ich bin erschöpft.
 
 2
-00:00:00,498 --> 00:00:02,827
-- Here's what I love most
-about food and diet.
+00:00:06,643 --> 00:00:08,800
+Was für eine Wanderung.
 
 3
-00:00:02,827 --> 00:00:06,383
-We all eat several times a day,
-and we're totally in charge
+00:00:08,883 --> 00:00:13,880
+Sieh mal, ich habe ein tolles
+Taubenhotel für uns gefunden.
 
 4
-00:00:06,383 --> 00:00:09,427
-of what goes on our plate
-and what stays off.
+00:00:13,963 --> 00:00:16,360
+Sieh mal, was es alles gibt.
+
+5
+00:00:16,443 --> 00:00:22,200
+Ich schalte den Ofen ein,
+um ein paar Samen zu rösten.
+
+6
+00:00:23,160 --> 00:00:25,480
+Schau dir die deutsche Landschaft an.
+
+7
+00:00:25,563 --> 00:00:27,280
+Sie ist wunderschön.
+
+8
+00:00:27,363 --> 00:00:33,560
+Es gibt sogar Windräder, die
+erneuerbare Energie erzeugen.
+
+9
+00:00:33,643 --> 00:00:36,560
+Oh, schau, wir können Milchshakes machen.
+
+10
+00:00:36,643 --> 00:00:39,040
+Oh, eine Popcorn-Maschine.
+
+11
+00:00:39,123 --> 00:00:42,720
+Ich gehe auch duschen.
+
+12
+00:00:47,400 --> 00:00:49,840
+Schau dir diesen riesigen Fernseher an.
+
+13
+00:00:49,923 --> 00:00:54,560
+Ich werde meine Dusche
+etwas heißer drehen.
+
+14
+00:00:55,320 --> 00:00:59,080
+Hugo, hör auf.
+
+15
+00:00:59,163 --> 00:01:01,560
+Mach die Geräte aus.
+
+16
+00:01:03,840 --> 00:01:06,280
+Du verstehst das nicht.
+
+17
+00:01:06,363 --> 00:01:10,560
+Um all diese Geräte zu betreiben,
+muss man Energie erzeugen.
+
+18
+00:01:10,643 --> 00:01:13,400
+Aber du hast mir gesagt,
+sie benutzen Windurbinen.
+
+19
+00:01:13,483 --> 00:01:14,920
+Die arbeiten mit dem Wind.
+
+20
+00:01:15,003 --> 00:01:17,720
+Das ist eine Energie,
+die nie verschwindet.
+
+21
+00:01:17,803 --> 00:01:19,440
+Aber das ist nur ein Teil davon.
+
+22
+00:01:19,523 --> 00:01:24,000
+In Deutschland machen die
+erneuerbaren Energien 44% aus.
+
+23
+00:01:24,083 --> 00:01:26,280
+Das ist weniger als die Hälfte.
+
+24
+00:01:26,363 --> 00:01:30,800
+Aber ich kann doch nicht nur die
+Hälfte des Fernsehers einschalten.
+
+25
+00:01:31,200 --> 00:01:36,000
+Weltweit liegt der Anteil der
+erneuerbaren Energien bei nur 20%.
+
+26
+00:01:36,083 --> 00:01:40,560
+Das bedeutet, dass wir für die
+überwiegende Mehrheit fossile Brennstoffe
+
+27
+00:01:40,643 --> 00:01:44,400
+verwenden, deren Entstehung
+Millionen von Jahren gedauert hat.
+
+28
+00:01:44,483 --> 00:01:46,440
+Wie Öl, Gas?
+
+29
+00:01:46,523 --> 00:01:51,800
+Ja, und sie setzen eine Menge
+Treibhausgase frei, wenn wir sie nutzen.
+
+30
+00:01:53,000 --> 00:01:56,000
+Ist es das, was unseren Planeten erwärmt?
+
+31
+00:01:56,083 --> 00:02:00,400
+Was wäre, wenn wir ein Land besuchen
+würden, das zu 100%
+
+32
+00:02:00,483 --> 00:02:02,720
+erneuerbare Energien nutzt?
+
+33
+00:02:02,803 --> 00:02:04,480
+Gibt es das?
+
